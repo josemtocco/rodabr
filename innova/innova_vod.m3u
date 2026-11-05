@@ -1,1 +1,259 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/34/vods-6a6d77e7de528.png" tvg-name="A Lenda" group-title="Aventura",A Lenda
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Lenda_1985/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/31/vods-6a6d78ee3fa01.png" tvg-name="A Máquina do Tempo" group-title="Aventura",A Máquina do Tempo
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Maquina_do_Tempo_1960/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/5/vods-6a6d77ce2f52d.png" tvg-name="Balto" group-title="Aventura",Balto
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Balto_1995/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/32/vods-6a6d77eeb6c9a.png" tvg-name="Butch Cassidy" group-title="Aventura",Butch Cassidy
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Butch_Cassidy_1969/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/13/vods-6a6d78bbc6316.png" tvg-name="Dungeons & Dragons: A Aventura Começa Agora" group-title="Aventura",Dungeons & Dragons: A Aventura Começa Agora
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Dungeons_e_Dragons_A_Aventura_Comeca_Agora_2000/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/25/vods-6a6d78a06d5a5.png" tvg-name="Garota Dourada" group-title="Aventura",Garota Dourada
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Garota_Dourada_1984/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/35/vods-6a6d7929aaeec.png" tvg-name="60 Segundos" group-title="Ação",60 Segundos
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/60_Segundos_2000/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/48/vods-6a6d790dc87fb.png" tvg-name="A Batalha das Ardenas: A Última Ofensiva de Hitler" group-title="Ação",A Batalha das Ardenas: A Última Ofensiva de Hitler
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Batalha_das_Ardenas_A_Ultima_Ofensiva_de_Hitler_2018/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/7/vods-6a6d791720be4.png" tvg-name="Alta Velocidade" group-title="Ação",Alta Velocidade
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Alta_Velocidade_2001/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/26/vods-6a6d77f270d18.png" tvg-name="Anjos Rebeldes" group-title="Ação",Anjos Rebeldes
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Anjos_Rebeldes_1995/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/11/vods-6ad842f169529.png" tvg-name="Apex" group-title="Ação",Apex
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Apex_2021/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/36/vods-6a6d791010458.png" tvg-name="As Minas do Rei Salomão" group-title="Ação",As Minas do Rei Salomão
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/As_Minas_do_Rei_Salomao_1950/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/32/vods-6ad84300a6d99.png" tvg-name="Assalto à 13ª DP" group-title="Ação",Assalto à 13ª DP
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Assalto_a_13a_DP_2005/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/25/vods-6a6d77cb77dae.png" tvg-name="Barb Wire: A Justiceira" group-title="Ação",Barb Wire: A Justiceira
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Barb_Wire_A_Justiceira_1996/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/16/vods-6a6d77f0bcc27.png" tvg-name="Blue Tiger: Desafiando a Yakuza" group-title="Ação",Blue Tiger: Desafiando a Yakuza
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Blue_Tiger_Desafiando_a_Yakuza_1994/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/11/vods-6a6d77b7651f1.png" tvg-name="Capturado" group-title="Ação",Capturado
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Capturado_2020/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/14/vods-6a6d77b2957b2.png" tvg-name="Cortina de Fogo" group-title="Ação",Cortina de Fogo
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Cortina_de_Fogo_1991/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/43/vods-6a6d79772ad1c.png" tvg-name="Cuba" group-title="Ação",Cuba
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Cuba_1979/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/30/vods-6a6d792f2b5d9.png" tvg-name="Dupla Explosiva" group-title="Ação",Dupla Explosiva
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Dupla_Explosiva_2002/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/23/vods-6a6d78b9f0d5d.png" tvg-name="EAS: Esquadrão Antissequestro" group-title="Ação",EAS: Esquadrão Antissequestro
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/EAS_Esquadrao_Antissequestro_2017/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/0/vods-6ad8430d7e1e9.png" tvg-name="Escorpião Vermelho" group-title="Ação",Escorpião Vermelho
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Escorpiao_Vermelho_1988/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/1/vods-6a6d78a84e853.png" tvg-name="Federal" group-title="Ação",Federal
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Federal_2010/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/5/vods-6a6d7734a40f6.png" tvg-name="Gladiador" group-title="Ação",Gladiador
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Gladiador_2000/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/37/vods-6a6d78975fe6e.png" tvg-name="Guerra de Desastres - Tsunami vs Terremoto" group-title="Ação",Guerra de Desastres - Tsunami vs Terremoto
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Guerra_de_Desastres_Tsunami_vs_Terremoto_2013/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/17/vods-6a6d7795345ef.png" tvg-name="Jogo de Espiões" group-title="Ação",Jogo de Espiões
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Jogo_de_Espioes_2001/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/28/vods-6a6d788f35695.png" tvg-name="Jogo de Xadrez" group-title="Ação",Jogo de Xadrez
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Jogo_de_Xadrez_2014/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/40/vods-6a6d788cb3699.png" tvg-name="Krull" group-title="Ação",Krull
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Krull_1983/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/7/vods-6a6d787139f96.png" tvg-name="Mortal Kombat" group-title="Ação",Mortal Kombat
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Mortal_Kombat_1995/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/43/vods-6a6d786e1e02d.png" tvg-name="My Way - Prisioneiros de Guerra" group-title="Ação",My Way - Prisioneiros de Guerra
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/My_Way_Prisioneiros_de_Guerra_2011/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/0/vods-6a6d78387c89a.png" tvg-name="O Grande Búfalo Branco" group-title="Ação",O Grande Búfalo Branco
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Grande_Bufalo_Branco_1977/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/38/vods-6ad84310a0b03.png" tvg-name="O Guerreiro do Amanhã" group-title="Ação",O Guerreiro do Amanhã
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Guerreiro_do_Amanha_2014/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/12/vods-6a6d782f9488a.png" tvg-name="O Planeta dos Macacos" group-title="Ação",O Planeta dos Macacos
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Planeta_dos_Macacos_1968/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/39/vods-6a6d7824a4202.png" tvg-name="O Voo do Dragão" group-title="Ação",O Voo do Dragão
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Voo_do_Dragao_1972/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/47/vods-6a6d77b06b9d0.png" tvg-name="Darrow & Darrow Associados: Vestígios de Um Crime" group-title="Cinema Tv",Darrow & Darrow Associados: Vestígios de Um Crime
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Darrow_e_Darrow_Associados_Vestigios_de_Um_Crime_2018/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/1/vods-6a6d78e20d85b.png" tvg-name="A Repossuída" group-title="Comédia",A Repossuída
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Repossuida_1990/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/34/vods-6a6d77e2d8691.png" tvg-name="ABC do Amor" group-title="Comédia",ABC do Amor
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/ABC_do_Amor_2005/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/30/vods-6a6d79203cc90.png" tvg-name="Allan - Uma Súbita Paixão" group-title="Comédia",Allan - Uma Súbita Paixão
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Allan_Uma_Subita_Paixao_2020/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/2/vods-6a6d7913e166c.png" tvg-name="Antes Só do que Mal Acompanhado" group-title="Comédia",Antes Só do que Mal Acompanhado
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Antes_So_do_que_Mal_Acompanhado_1987/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/11/vods-6a6d7911e8416.png" tvg-name="As Criaturas Atrás das Paredes" group-title="Comédia",As Criaturas Atrás das Paredes
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/As_Criaturas_Atras_das_Paredes_1991/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/37/vods-6a6d77d2e741f.png" tvg-name="Aí Você Apareceu" group-title="Comédia",Aí Você Apareceu
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Ai_Voce_Apareceu_2021/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/44/vods-6a6d77c9f2ed1.png" tvg-name="Beethoven 2" group-title="Comédia",Beethoven 2
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Beethoven_2_1993/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/35/vods-6a6d77c7dd6d9.png" tvg-name="Beethoven 3: Uma Família em Apuros" group-title="Comédia",Beethoven 3: Uma Família em Apuros
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Beethoven_3_Uma_Familia_em_Apuros_2000/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/42/vods-6a6d77c5b132e.png" tvg-name="Beethoven: O Magnífico" group-title="Comédia",Beethoven: O Magnífico
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Beethoven_O_Magnifico_1992/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/19/vods-6a6d77c33cc3b.png" tvg-name="Big Pai, Big Filho" group-title="Comédia",Big Pai, Big Filho
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Big_Pai_Big_Filho_2017/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/50/vods-6a6d77c1191bb.png" tvg-name="Billy Madison: Um Herdeiro Bobalhão" group-title="Comédia",Billy Madison: Um Herdeiro Bobalhão
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Billy_Madison_Um_Herdeiro_Bobalhao_1995/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/20/vods-6a6d78d32cf14.png" tvg-name="Cantando na Chuva" group-title="Comédia",Cantando na Chuva
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Cantando_na_Chuva_1952/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/44/vods-6a6d78bdce072.png" tvg-name="Deu a Louca nos Nazis" group-title="Comédia",Deu a Louca nos Nazis
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Deu_a_Louca_nos_Nazis_2012/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/20/vods-6a6d77ecad627.png" tvg-name="Em Busca do Ouro" group-title="Comédia",Em Busca do Ouro
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Em_Busca_do_Ouro_1925/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/17/vods-6a6d78b681793.png" tvg-name="Entrando Numa Roubada" group-title="Comédia",Entrando Numa Roubada
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Entrando_Numa_Roubada_2015/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/38/vods-6a6d78b48b413.png" tvg-name="Entre Mulheres" group-title="Comédia",Entre Mulheres
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Entre_Mulheres_1991/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/39/vods-6a6d77a0d14b6.png" tvg-name="Família à Prova de Balas" group-title="Comédia",Família à Prova de Balas
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Guns_Up_Familia_a_Prova_de_Balas_2025/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/43/vods-6a6d779cf2728.png" tvg-name="FormiguinhaZ" group-title="Comédia",FormiguinhaZ
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/FormiguinhaZ_1998/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/13/vods-6ad8431f93689.png" tvg-name="Fuga Alucinada" group-title="Comédia",Fuga Alucinada
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Fuga_Alucinada_1974/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/32/vods-6a6d789206721.png" tvg-name="Heróis Fora de Órbita" group-title="Comédia",Heróis Fora de Órbita
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Herois_Fora_de_Orbita_1999/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/30/vods-6a6d7879a5edc.png" tvg-name="Manequim: A Magia do Amor" group-title="Comédia",Manequim: A Magia do Amor
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Manequim_A_Magia_do_Amor_1991/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/26/vods-6a6d77834b710.png" tvg-name="Minha Super Ex-Namorada" group-title="Comédia",Minha Super Ex-Namorada
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Minha_Super_Ex_Namorada_2006/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/16/vods-6a6d777c5126e.png" tvg-name="Mr. Bean - O Filme" group-title="Comédia",Mr. Bean - O Filme
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Mr_Bean_O_Filme_1997/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/13/vods-6a6d784f6aa2c.png" tvg-name="O Ataque dos Vermes Malditos" group-title="Comédia",O Ataque dos Vermes Malditos
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Ataque_dos_Vermes_Malditos_1990/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/50/vods-6a6d784d326fc.png" tvg-name="O Ataque dos Vermes Malditos 2 - Os Vermes Voltaram" group-title="Comédia",O Ataque dos Vermes Malditos 2 - Os Vermes Voltaram
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Ataque_dos_Vermes_Malditos_2_1996/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/14/vods-6a6d7776d7ccb.png" tvg-name="O Cachorro Bombeiro" group-title="Comédia",O Cachorro Bombeiro
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Cachorro_Bombeiro_2007/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/48/vods-6a6d785f340fb.png" tvg-name="Os Caça-Fantasmas 2" group-title="Comédia",Os Caça-Fantasmas 2
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Os_Caca_Fantasmas_2_1989/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/36/vods-6a6d785812320.png" tvg-name="Os Irmãos Grimm" group-title="Comédia",Os Irmãos Grimm
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Os_Irmaos_Grimm_2005/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/50/vods-6a6d7767a2386.png" tvg-name="Os Pequeninos" group-title="Comédia",Os Pequeninos
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Os_Pequeninos_1997/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/34/vods-6ad8431e35711.png" tvg-name="Por Água Abaixo" group-title="Comédia",Por Água Abaixo
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Por_Agua_Abaixo_2006/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/41/vods-6a6d7757eb69a.png" tvg-name="Quero Ser John Malkovich" group-title="Comédia",Quero Ser John Malkovich
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Quero_Ser_John_Malkovich_1999/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/45/vods-6ad84320eb021.png" tvg-name="Super Pai" group-title="Comédia",Super Pai
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Super_Pai_2001/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/46/vods-6a6d7914ef9dd.png" tvg-name="Amor Bandido" group-title="Crime",Amor Bandido
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Amor_Bandido_1979/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/41/vods-6a6d77abd28a0.png" tvg-name="Era Uma Vez na América" group-title="Crime",Era Uma Vez na América
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Era_Uma_Vez_na_America_1984/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/4/vods-6a6d7779b482f.png" tvg-name="Na Trilha do Sol" group-title="Crime",Na Trilha do Sol
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Na_Trilha_do_Sol_1996/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/20/vods-6a6d790c1702f.png" tvg-name="O Último Suspeito" group-title="Crime",O Último Suspeito
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Cidade_Do_Passado_2002/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/48/vods-6a6d7817789e2.png" tvg-name="Rei do Rio" group-title="Crime",Rei do Rio
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Rei_do_Rio_1985/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/21/vods-6a6d78ad77f49.png" tvg-name="...E o Vento Levou" group-title="Drama",...E o Vento Levou
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/E_o_Vento_Levou_1939/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/34/vods-6a6d790890ca4.png" tvg-name="A Dama na Água" group-title="Drama",A Dama na Água
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Dama_na_Agua_2006/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/3/vods-6a6d78fe2b26d.png" tvg-name="A Estrada 47" group-title="Drama",A Estrada 47
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Estrada_47_2014/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/4/vods-6a6d78f8a7d61.png" tvg-name="A Força do Destino" group-title="Drama",A Força do Destino
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Forca_do_Destino_1982/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/30/vods-6a6d78f61a39c.png" tvg-name="A História de Oliver" group-title="Drama",A História de Oliver
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Historia_de_Oliver_1978/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/41/vods-6a6d77e575ab2.png" tvg-name="A Luta Por Um Ideal" group-title="Drama",A Luta Por Um Ideal
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Luta_Por_Um_Ideal_2012/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/16/vods-6a6d797a40b22.png" tvg-name="A Noa - A Nova Onda Apocalipse" group-title="Drama",A Noa - A Nova Onda Apocalipse
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Noa_A_Nova_Onda_Apocalipse_2023/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/11/vods-6a6d797bcabda.png" tvg-name="Além da Paixão" group-title="Drama",Além da Paixão
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Alem_da_Paixao_1985/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/30/vods-6a6d79786aef0.png" tvg-name="Benjamim" group-title="Drama",Benjamim
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Benjamim_2003/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/38/vods-6a6d78d88c66b.png" tvg-name="Cabeça a Prêmio" group-title="Drama",Cabeça a Prêmio
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Cabeca_a_Premio_2010/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/1/vods-6a6d78cdd3947.png" tvg-name="Casablanca" group-title="Drama",Casablanca
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Casablanca_1943/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/17/vods-6a6d78b289222.png" tvg-name="Era uma Vez no Oeste" group-title="Drama",Era uma Vez no Oeste
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Era_uma_Vez_no_Oeste_1968/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/19/vods-6a6d77924334b.png" tvg-name="Jornada Pela Justiça" group-title="Drama",Jornada Pela Justiça
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Jornada_Pela_Justica_2010/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/17/vods-6a6d788609c7f.png" tvg-name="Livrando-se do Passado" group-title="Drama",Livrando-se do Passado
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Livrando_se_do_Passado_2012/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/16/vods-6a6d787371511.png" tvg-name="Meu Pé de Laranja Lima" group-title="Drama",Meu Pé de Laranja Lima
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Meu_Pe_de_Laranja_Lima_2013/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/43/vods-6ad8430247d39.png" tvg-name="O Cavaleiro Solitário" group-title="Drama",O Cavaleiro Solitário
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Cavaleiro_Solitario_1985/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/14/vods-6a6d7861180c3.png" tvg-name="Olga" group-title="Drama",Olga
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Olga_2004/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/45/vods-6ad8430f4d24f.png" tvg-name="Os Gritos do Silêncio" group-title="Drama",Os Gritos do Silêncio
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Os_Gritos_do_Silencio_1984/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/22/vods-6a6d7762e3d90.png" tvg-name="Palavras de Amor" group-title="Drama",Palavras de Amor
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Palavras_de_Amor_2005/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/48/vods-6a6d774f84e6d.png" tvg-name="Selma: Uma Luta pela Igualdade" group-title="Drama",Selma: Uma Luta pela Igualdade
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Selma_Uma_Luta_pela_Igualdade_2014/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/6/vods-6a6d78262772b.png" tvg-name="O Sequestro de Vitor" group-title="Família",O Sequestro de Vitor
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Sequestro_de_Vitor_2022/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/14/vods-6a6d78f2d7847.png" tvg-name="A Última Peça" group-title="Fantasia",A Última Peça
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Ultima_Peca_2019/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/41/vods-6a6d777fbc711.png" tvg-name="Minha Zoe, Minha Vida" group-title="Ficção Científica",Minha Zoe, Minha Vida
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Minha_Zoe_Minha_Vida_2019/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="U Channel" group-title="Geral",U Channel
+https://object.sp2.eveo.com.br/14066:innova-vod/series/a_pantera_cor_de_rosa/s01/e001/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/09/21/17/vods-6ab199f3c3e85.png" tvg-name="A Escolha Perfeita" group-title="Musica",A Escolha Perfeita
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Escolha_Perfeita_2012/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/48/vods-6a6d7903e6e49.png" tvg-name="A Escolha Perfeita 2" group-title="Musica",A Escolha Perfeita 2
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Escolha_Perfeita_2_2015/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/24/vods-6a6d79008aa21.png" tvg-name="A Escolha Perfeita 3" group-title="Musica",A Escolha Perfeita 3
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Escolha_Perfeita_3_2017/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/29/vods-6a6d78e42ddbc.png" tvg-name="A Nossa Canção de Amor" group-title="Musica",A Nossa Canção de Amor
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Nossa_Cancao_de_Amor_2020/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/49/vods-6a6d776ad7961.png" tvg-name="O Príncipe Quebra-Nozes" group-title="Musica",O Príncipe Quebra-Nozes
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Principe_Quebra_Nozes_1993/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/45/vods-6a6d77690678b.png" tvg-name="Os Irmãos Cara de Pau 2000" group-title="Musica",Os Irmãos Cara de Pau 2000
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Os_Irmaos_Cara_de_Pau_2000_1998/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/31/vods-6a6d7745957dc.png" tvg-name="Trolls" group-title="Musica",Trolls
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Trolls_2016/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/23/vods-6a6d782355f36.png" tvg-name="Ó Paí, Ó" group-title="Musica",Ó Paí, Ó
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Pai_O_2007/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/19/vods-6a6d78d041885.png" tvg-name="Cartões de Natal" group-title="Romance",Cartões de Natal
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Cartoes_de_Natal_2019/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/33/vods-6a6d7909eac6d.png" tvg-name="A Cilada" group-title="Suspense",A Cilada
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Cilada_2015/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/20/vods-6a6d78fa2df4a.png" tvg-name="A Flor Mortal" group-title="Suspense",A Flor Mortal
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Flor_Mortal_1993/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/8/vods-6a6d7925a565a.png" tvg-name="A Floresta Que Se Move" group-title="Suspense",A Floresta Que Se Move
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Floresta_Que_Se_Move_2015/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/36/vods-6a6d78f02f321.png" tvg-name="A Última Testemunha" group-title="Suspense",A Última Testemunha
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/A_Ultima_Testemunha_2018/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/26/vods-6a6d77bd9bdb4.png" tvg-name="Borrego: Saia do Caminho" group-title="Suspense",Borrego: Saia do Caminho
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Borrego_Saia_do_Caminho_2022/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/4/vods-6a6d78d708cc8.png" tvg-name="Caçada na Noite" group-title="Suspense",Caçada na Noite
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Cacada_na_Noite_1980/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/27/vods-6a6d78cbd8571.png" tvg-name="Chamada Não Identificada" group-title="Suspense",Chamada Não Identificada
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Chamada_Nao_Identificada_2014/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/39/vods-6a6d78ca4de1e.png" tvg-name="Chamada para um Morto" group-title="Suspense",Chamada para um Morto
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Chamada_para_um_Morto_1967/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/23/vods-6a6d78c8dd962.png" tvg-name="Clube da Luta" group-title="Suspense",Clube da Luta
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Clube_da_Luta_1999/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/29/vods-6ad8430ab2673.png" tvg-name="Coração Selvagem" group-title="Suspense",Coração Selvagem
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Coracao_Selvagem_1990/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/35/vods-6a6d77a98d2f3.png" tvg-name="Escobar: Paraíso Perdido" group-title="Suspense",Escobar: Paraíso Perdido
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Escobar_Paraiso_Perdido_2014/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/0/vods-6a6d789e06c53.png" tvg-name="Ghost: Do Outro Lado da Vida" group-title="Suspense",Ghost: Do Outro Lado da Vida
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Ghost_Do_Outro_Lado_da_Vida_1990/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/5/vods-6a6d789b75847.png" tvg-name="Gosto de Sangue" group-title="Suspense",Gosto de Sangue
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Gosto_de_Sangue_1984/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/42/vods-6a6d7877c51a2.png" tvg-name="Man Down: O Terror da Guerra" group-title="Suspense",Man Down: O Terror da Guerra
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Man_Down_O_Terror_da_Guerra_2015/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/09/03/18/vods-6a99c01d3bd45.png" tvg-name="Rebelde" group-title="Suspense",Rebelde
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Rebelde_1974/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/9/vods-6a6d78026ebe3.png" tvg-name="Um Lance no Escuro" group-title="Suspense",Um Lance no Escuro
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Um_Lance_no_Escuro_1975/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/15/vods-6a6d77de1509a.png" tvg-name="Ameaça no Espaço" group-title="Terror",Ameaça no Espaço
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Ameaca_no_Espaco_2020/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/49/vods-6a6d77d961fe4.png" tvg-name="Amityville: O Despertar" group-title="Terror",Amityville: O Despertar
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Amityville_O_Despertar_2017/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/33/vods-6a6d78bf88c44.png" tvg-name="Debug" group-title="Terror",Debug
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Debug_2014/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/10/vods-6a6d779a07db9.png" tvg-name="Frankenfish: Criatura Assassina" group-title="Terror",Frankenfish: Criatura Assassina
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Frankenfish_Criatura_Assassina_2004/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/6/vods-6a6d786835f70.png" tvg-name="Nazistas no Centro da Terra" group-title="Terror",Nazistas no Centro da Terra
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Nazistas_no_Centro_da_Terra_2012/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/10/21/50/vods-6ad8431cc633b.png" tvg-name="O Grito 2" group-title="Terror",O Grito 2
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/O_Grito_2_2006/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/24/vods-6a6d780d630cd.png" tvg-name="Solo: A Ilha do Medo" group-title="Terror",Solo: A Ilha do Medo
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Solo_A_Ilha_do_Medo_2013/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/18/vods-6a6d7749f04c3.png" tvg-name="Sozinha" group-title="Terror",Sozinha
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Sozinha_2020/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/vods/2026/08/01/12/vods-6a6d774058e2a.png" tvg-name="Uma Sombra na Nuvem" group-title="Terror",Uma Sombra na Nuvem
+https://object.sp2.eveo.com.br/14066:innova-vod/filmes/Uma_Sombra_na_Nuvem_2020/hls/playlist.m3u8
