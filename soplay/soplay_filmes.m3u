@@ -1,6 +1,6 @@
 #EXTM3U size="medium"
 #PLAYLIST: SO Play Filmes auto (SS IPTV)
-#UPDATED: 2026-11-06T11:15:59
+#UPDATED: 2026-11-06T11:41:07
 #EXTSIZE: medium
 #EXTINF:5700 tvg-name="36 Horas de Guerra" tvg-logo="https://images.nxtv.com.br/resize/6883c42c89d44_5d21c771649179788678a49ce33c203d.jpg" type="video" audio-track="por" description="1h35min" group-title="Acao",36 Horas de Guerra (1h35min)
 #EXTSIZE: medium
@@ -371,6 +371,9 @@ https://vz-ce1e5031-6d5.b-cdn.net/23805924-e187-4caa-a8da-275d907cb460/playlist.
 #EXTINF:4980 tvg-name="A Presa" tvg-logo="https://images.nxtv.com.br/resize/movies/covers/6a8445f76d956_1787053559.jpg" type="video" audio-track="por" description="1h23min" group-title="Top 10",A Presa (1h23min)
 #EXTSIZE: medium
 https://vz-ce1e5031-6d5.b-cdn.net/671c7b55-3b02-4aa4-9c88-699e9f69c906/playlist.m3u8
+#EXTINF:5820 tvg-name="De Volta ao Fundo do Mar" tvg-logo="https://images.nxtv.com.br/resize/movies/covers/69f8e96f4cea0_1777920367.webp" type="video" audio-track="por" description="1h37min" group-title="Top 10",De Volta ao Fundo do Mar (1h37min)
+#EXTSIZE: medium
+https://vz-3c8f92e1-3e7.b-cdn.net/b0f40863-f0b2-4778-908f-481bf08bdb7f/playlist.m3u8
 #EXTINF:6360 tvg-name="Doce Vingança 2" tvg-logo="https://images.nxtv.com.br/resize/681a18acab8a3_0758793ad52a6be4115df31f05be57aa.jpg" type="video" audio-track="por" description="1h46min" group-title="Top 10",Doce Vingança 2 (1h46min)
 #EXTSIZE: medium
 https://vz-668c4853-3ab.b-cdn.net/3a398eba-0155-42dd-9de5-6ca0870ec8aa/playlist.m3u8
