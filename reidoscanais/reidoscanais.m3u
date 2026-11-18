@@ -1,211 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://logocanais.pics/imagens/adultswim.png" group-title="Entretenimento" content-type="video",Adult Swim
-https://livestream.st/live/secure/A8__mLi57BGLNwJYXFliJiRTuVx7etadnPpQ9axyPhY/1794965075/b004c4944a6fc58b/adultswim/index.m3u8
-#EXTINF:-1 tvg-id="ae" tvg-name="AE" tvg-logo="https://logocanais.pics/imagens/ae.png" group-title="Entretenimento" content-type="video",AE
-https://livestream.st/live/secure/IQHgAk5BPfWjlvWGqlKicWcHYicpym8YNc3LRNuhmqU/1794965085/b004c4944a6fc58b/aee/index.m3u8
-#EXTINF:-1 tvg-id="arte1" tvg-name="Arte1" tvg-logo="https://logocanais.pics/imagens/arte1.png" group-title="Entretenimento" content-type="video",Arte1
-https://livestream.st/live/secure/p6YkM7zWM3NeN4lpeyOPg9WHjcnK2XtwgD0pURAknFc/1794965126/b004c4944a6fc58b/arte1/index.m3u8
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://logocanais.pics/imagens/bis.png" group-title="Entretenimento" content-type="video",BIS
-https://rdcanais.org/bis
-#EXTINF:-1 tvg-id="canaloff" tvg-name="Canal OFF" tvg-logo="https://logocanais.pics/imagens/canaloff.png" group-title="Entretenimento" content-type="video",Canal OFF
-https://rdcanais.org/canaloff
-#EXTINF:-1 tvg-id="curta" tvg-name="Curta!" tvg-logo="https://logocanais.pics/imagens/curta.png" group-title="Entretenimento" content-type="video",Curta!
-https://livestream.st/live/secure/-spIndYclImv_xiCKP0HrFkov_OKfdPN5F_gMf9LvgA/1794965254/b004c4944a6fc58b/curta/index.m3u8
-#EXTINF:-1 tvg-id="discoveryheh" tvg-name="Discovery Home e Health" tvg-logo="https://logocanais.pics/imagens/discoveryheh.webp" group-title="Entretenimento" content-type="video",Discovery Home e Health
-https://livestream.st/live/secure/0lPzl53GQRXqCxo8mN-FV_rhWsSQlbPdOUYf5vEP-PQ/1794965274/b004c4944a6fc58b/discoveryhh/index.m3u8
-#EXTINF:-1 tvg-id="e" tvg-name="E!" tvg-logo="https://logocanais.pics/imagens/e.png" group-title="Entretenimento" content-type="video",E!
-https://livestream.st/live/secure/RVCBjwsR1yes6x1N-Z4_lRj2OTjL3fYlm5MwzqEfoQo/1794965344/b004c4944a6fc58b/e/index.m3u8
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="Fashion TV" tvg-logo="https://logocanais.pics/imagens/fashiontv.png" group-title="Entretenimento" content-type="video",Fashion TV
-https://livestream.st/live/secure/Bhe4a_XRdCObsQyZbIQxihvp_z9aT1ngDlqvbdzGSs0/1794965354/b004c4944a6fc58b/fashiontv/index.m3u8
-#EXTINF:-1 tvg-id="fishtv" tvg-name="Fish TV" tvg-logo="https://logocanais.pics/imagens/fishtv.png" group-title="Entretenimento" content-type="video",Fish TV
-https://rdcanais.org/fishtv
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" tvg-logo="https://logocanais.pics/imagens/foodnetwork.png" group-title="Entretenimento" content-type="video",Food Network
-https://livestream.st/live/secure/v0dpOchDpxNJtyHrV05Em7wYTJrFz-wstJwf8iOm54Q/1794965379/b004c4944a6fc58b/foodnetwork/index.m3u8
-#EXTINF:-1 tvg-id="globoplaynovelas" tvg-name="Globoplay Novelas" tvg-logo="https://logocanais.pics/imagens/globoplaynovelas.png" group-title="Entretenimento" content-type="video",Globoplay Novelas
-https://rdcanais.org/globoplaynovelas
-#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://logocanais.pics/imagens/gnt.png" group-title="Entretenimento" content-type="video",GNT
-https://rdcanais.org/gnt
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://logocanais.pics/imagens/hgtv.png" group-title="Entretenimento" content-type="video",HGTV
-https://livestream.st/live/secure/QYnB7L0U2AbXAzOh6nBUn1NtVjiOJpjcD-e7j2NLGMU/1794965580/b004c4944a6fc58b/hgtv/index.m3u8
-#EXTINF:-1 tvg-id="modoviagem" tvg-name="Modo Viagem" tvg-logo="https://logocanais.pics/imagens/modoviagem.svg" group-title="Entretenimento" content-type="video",Modo Viagem
-https://rdcanais.org/modoviagem
-#EXTINF:-1 tvg-id="multishow" tvg-name="Multishow" tvg-logo="https://logocanais.pics/imagens/multishow.png" group-title="Entretenimento" content-type="video",Multishow
-https://rdcanais.org/multishow
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://logocanais.pics/imagens/tlc.png" group-title="Entretenimento" content-type="video",TLC
-https://livestream.st/live/secure/nIP1VfgtWRXozskVZ5g9MVj3cpBTBQ-eLdoxU-sWBa4/1794965897/b004c4944a6fc58b/tlc/index.m3u8
-#EXTINF:-1 tvg-id="woohoo" tvg-name="WooHoo" tvg-logo="https://logocanais.pics/imagens/woohoo.png" group-title="Entretenimento" content-type="video",WooHoo
-https://rdcanais.org/woohoo
-#EXTINF:-1 tvg-id="agromais" tvg-name="Agro+" tvg-logo="https://logocanais.pics/imagens/agromais.png" group-title="Notícias" content-type="video",Agro+
-https://livestream.st/live/secure/BmWWFIR7dp6R3WBOfVwiKLyE-s6YIyjQWXED337po58/1794965095/b004c4944a6fc58b/agromais/index.m3u8
-#EXTINF:-1 tvg-id="bandnews" tvg-name="Band News" tvg-logo="https://logocanais.pics/imagens/bandnews.png" group-title="Notícias" content-type="video",Band News
-https://rdcanais.org/bandnews
-#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="CNN Brasil" tvg-logo="https://logocanais.pics/imagens/cnnbrasil.png" group-title="Notícias" content-type="video",CNN Brasil
-https://origin-fast.b-cdn.net/CNN_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="globonews" tvg-name="Globo News" tvg-logo="https://logocanais.pics/imagens/globonews.png" group-title="Notícias" content-type="video",Globo News
-https://rdcanais.org/globonews
-#EXTINF:-1 tvg-id="jpnews" tvg-name="JP News" tvg-logo="https://logocanais.pics/imagens/jpnews.webp" group-title="Notícias" content-type="video",JP News
-https://rdcanais.org/jpnews
-#EXTINF:-1 tvg-id="recordnews" tvg-name="Record News" tvg-logo="https://logocanais.pics/imagens/recordnews.png" group-title="Notícias" content-type="video",Record News
-https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-id="sbtnews" tvg-name="SBT News" tvg-logo="https://logocanais.pics/imagens/sbtnews.png" group-title="Notícias" content-type="video",SBT News
-https://my81hvqnsk.execute-api.us-east-1.amazonaws.com/
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://logocanais.pics/imagens/amc.png" group-title="Filmes e Séries" content-type="video",AMC
-https://livestream.st/live/secure/V1w-1eBnhMYcv5-s5rOK6EqZebbNOn76DHE4X5m-frA/1794965106/b004c4944a6fc58b/amc/index.m3u8
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://logocanais.pics/imagens/axn.png" group-title="Filmes e Séries" content-type="video",AXN
-https://livestream.st/live/secure/bDGQLlwASjbWtcHJfrHsvYmmGOzyG5kmzDMg6kygRWQ/1794965136/b004c4944a6fc58b/axn/index.m3u8
-#EXTINF:-1 tvg-id="canal-brasil" tvg-name="Canal Brasil" tvg-logo="https://logocanais.pics/imagens/canalbrasil.png" group-title="Filmes e Séries" content-type="video",Canal Brasil
-https://rdcanais.org/canalbrasil
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://logocanais.pics/imagens/cinemax.png" group-title="Filmes e Séries" content-type="video",Cinemax
-https://livestream.st/live/secure/lJLjiHZCRzyPf8HlWVgkdU3a6v8Zl6QMzbrRVJcCBno/1794965233/b004c4944a6fc58b/cinemax/index.m3u8
-#EXTINF:-1 tvg-id="discoveryid" tvg-name="Discovery ID" tvg-logo="https://logocanais.pics/imagens/discoveryid.png" group-title="Filmes e Séries" content-type="video",Discovery ID
-https://livestream.st/live/secure/-pZ1nGg-UUz5AWhJgr3wFSUeTz1lmGrIMDZzfLhLnpE/1794965284/b004c4944a6fc58b/discoveryid/index.m3u8
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://logocanais.pics/imagens/hbo.png" group-title="Filmes e Séries" content-type="video",HBO
-https://livestream.st/live/secure/qRd2OxagOQ8vFFVyQwVGUM4TzTMseI5nRpHyXhxpUF8/1794965517/b004c4944a6fc58b/hbo/index.m3u8
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://logocanais.pics/imagens/hbo2.png" group-title="Filmes e Séries" content-type="video",HBO 2
-https://livestream.st/live/secure/y59aPCfgnPtrjQAWVN75YJEtB4NsIJYhRHerL0NdL2U/1794965526/b004c4944a6fc58b/hbo2/index.m3u8
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="https://logocanais.pics/imagens/hbofamily.png" group-title="Filmes e Séries" content-type="video",HBO Family
-https://livestream.st/live/secure/IaSTHZwj2nuy7iMbFpIKAogIuR8DYzzfuxhuWWIMY1o/1794965536/b004c4944a6fc58b/hbofamily/index.m3u8
-#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO Pop" tvg-logo="https://logocanais.pics/imagens/hbopop.webp" group-title="Filmes e Séries" content-type="video",HBO Pop
-https://rdcanais.org/hbopop
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO Signature" tvg-logo="https://logocanais.pics/imagens/hbosignature.png" group-title="Filmes e Séries" content-type="video",HBO Signature
-https://livestream.st/live/secure/R4jDvOHJOdTDwwBwyxhTqZpDNX3vn2eYAk6UNSHHv9c/1794965550/b004c4944a6fc58b/hbosignature/index.m3u8
-#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO Xtreme" tvg-logo="https://logocanais.pics/imagens/hboxtreme.png" group-title="Filmes e Séries" content-type="video",HBO Xtreme
-https://livestream.st/live/secure/6bPaHRATTZvQoqW7dvO1hMd0pANQMZWM96eqTMu9__A/1794965560/b004c4944a6fc58b/hboxtreme/index.m3u8
-#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO+" tvg-logo="https://logocanais.pics/imagens/hboplus.png" group-title="Filmes e Séries" content-type="video",HBO+
-https://livestream.st/live/secure/m1R31hORyJNrtW8UJLCvCnNlkOFYX9e3WaKwGqJ-u0w/1794965570/b004c4944a6fc58b/hboplus/index.m3u8
-#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="https://logocanais.pics/imagens/lifetime.png" group-title="Filmes e Séries" content-type="video",Lifetime
-https://livestream.st/live/secure/M4bsYF_iYIh2_x1ZvAo-nTGAny6Rj2xV3L3qKXMI5qc/1794965625/b004c4944a6fc58b/lifetime/index.m3u8
-#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" tvg-logo="https://logocanais.pics/imagens/megapix.png" group-title="Filmes e Séries" content-type="video",Megapix
-https://rdcanais.org/megapix
-#EXTINF:-1 tvg-id="sonychannel" tvg-name="Sony Channel" tvg-logo="https://logocanais.pics/imagens/sonychannel.png" group-title="Filmes e Séries" content-type="video",Sony Channel
-https://livestream.st/live/secure/pgmzPSwnAMB4qaY7beEoVe9r7FSJdvM1aMnTfMy8ahg/1794965770/b004c4944a6fc58b/sonychannel/index.m3u8
-#EXTINF:-1 tvg-id="sonymovies" tvg-name="Sony Movies" tvg-logo="https://logocanais.pics/imagens/sonymovies.png" group-title="Filmes e Séries" content-type="video",Sony Movies
-https://livestream.st/live/secure/gbtD3_-zbPqMT3ToeUpJISgML9a3EJcYkGayk8s4I2M/1794965780/b004c4944a6fc58b/sonymovies/index.m3u8
-#EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://logocanais.pics/imagens/space.png" group-title="Filmes e Séries" content-type="video",Space
-https://rdcanais.org/space
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="Studio Universal" tvg-logo="https://logocanais.pics/imagens/studiouniversal.png" group-title="Filmes e Séries" content-type="video",Studio Universal
-https://rdcanais.org/studiouniversal
-#EXTINF:-1 tvg-id="telecineaction" tvg-name="Telecine Action" tvg-logo="https://logocanais.pics/imagens/telecineaction.png" group-title="Filmes e Séries" content-type="video",Telecine Action
-https://livestream.st/live/secure/jKEaP7AB_U6k5Bkw9XZ7Rv4HRtqJcYgnnfTXKsjUNkQ/1794965836/b004c4944a6fc58b/telecineaction/index.m3u8
-#EXTINF:-1 tvg-id="telecinecult" tvg-name="Telecine Cult" tvg-logo="https://logocanais.pics/imagens/telecinecult.png" group-title="Filmes e Séries" content-type="video",Telecine Cult
-https://livestream.st/live/secure/X_RtvKuPlvcV0ZYD30SV-88nwllvdpXAZJWfjHUKS3I/1794965845/b004c4944a6fc58b/telecinecult/index.m3u8
-#EXTINF:-1 tvg-id="telecinefun" tvg-name="Telecine Fun" tvg-logo="https://logocanais.pics/imagens/telecinefun.png" group-title="Filmes e Séries" content-type="video",Telecine Fun
-https://livestream.st/live/secure/4c6uuorw_2VUFy9tzA6fFgmVAIL_1prOx3z5DtxwNNE/1794965856/b004c4944a6fc58b/telecinefun/index.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="Telecine Pipoca" tvg-logo="https://logocanais.pics/imagens/telecinepipoca.png" group-title="Filmes e Séries" content-type="video",Telecine Pipoca
-https://livestream.st/live/secure/7IZCiTfZo5By-aSu776CMoCyxL8ukz7LSXfTaJE9Prc/1794965866/b004c4944a6fc58b/telecinepipoca/index.m3u8
-#EXTINF:-1 tvg-id="telecinepremium" tvg-name="Telecine Premium" tvg-logo="https://logocanais.pics/imagens/telecinepremium.png" group-title="Filmes e Séries" content-type="video",Telecine Premium
-https://livestream.st/live/secure/05C9JtRP_28MWPmOrVlNrLLJzq94hXOX4XIGksfDDho/1794965876/b004c4944a6fc58b/telecinepremium/index.m3u8
-#EXTINF:-1 tvg-id="telecinetouch" tvg-name="Telecine Touch" tvg-logo="https://logocanais.pics/imagens/telecinetouch.png" group-title="Filmes e Séries" content-type="video",Telecine Touch
-https://livestream.st/live/secure/hSmuW_wrGVJJR2CNcFR7B8Bh1kjRycdgc35GMP4hnaY/1794965887/b004c4944a6fc58b/telecinetouch/index.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://logocanais.pics/imagens/tnt.png" group-title="Filmes e Séries" content-type="video",TNT
-https://rdcanais.org/tnt
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT Novelas" tvg-logo="https://logocanais.pics/imagens/tntnovelas.png" group-title="Filmes e Séries" content-type="video",TNT Novelas
-https://livestream.st/live/secure/GewRJ9Bphk_FYlam_X-6oWK4jGL90nuYweTaqm58HgI/1794965910/b004c4944a6fc58b/tntnovelas/index.m3u8
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Séries" tvg-logo="https://logocanais.pics/imagens/tntseries.png" group-title="Filmes e Séries" content-type="video",TNT Séries
-https://livestream.st/live/secure/Wj8gx3_oC4cQfPqZ088d2H_PfrB5DW1xowY3BdR3NAw/1794965920/b004c4944a6fc58b/tntseries/index.m3u8
-#EXTINF:-1 tvg-id="universaltv" tvg-name="Universal TV" tvg-logo="https://logocanais.pics/imagens/universaltv.png" group-title="Filmes e Séries" content-type="video",Universal TV
-https://rdcanais.org/universaltv
-#EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://logocanais.pics/imagens/usa.png" group-title="Filmes e Séries" content-type="video",USA
-https://rdcanais.org/usa
-#EXTINF:-1 tvg-id="warnertv" tvg-name="Warner TV" tvg-logo="https://logocanais.pics/imagens/warnertv.png" group-title="Filmes e Séries" content-type="video",Warner TV
-https://livestream.st/live/secure/jq4x5sR6zG9qCMUKzXxazSxx5fkmHu-seA4JuArY4Po/1794965965/b004c4944a6fc58b/warnertv/index.m3u8
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://logocanais.pics/imagens/animalplanet.png" group-title="Documentários" content-type="video",Animal Planet
-https://livestream.st/live/secure/ykDlEZfm7rovnWc34X5nvjYDrAxYjzgINWVp--rSiiQ/1794965116/b004c4944a6fc58b/animalplanet/index.m3u8
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://logocanais.pics/imagens/discoverychannel.webp" group-title="Documentários" content-type="video",Discovery Channel
-https://livestream.st/live/secure/xHfmyVzlPpeokgU_6fkggQMZjt42apjUG7Rogw6pys8/1794965263/b004c4944a6fc58b/discoverychannel/index.m3u8
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="https://logocanais.pics/imagens/discoveryscience.webp" group-title="Documentários" content-type="video",Discovery Science
-https://livestream.st/live/secure/9i-ckWTtdUwR69gnnVsZKpWRXPsfzcSwyMOgiSYLpKE/1794965304/b004c4944a6fc58b/discoveryscience/index.m3u8
-#EXTINF:-1 tvg-id="discoverytheater" tvg-name="Discovery Theater" tvg-logo="https://logocanais.pics/imagens/discoverytheater.png" group-title="Documentários" content-type="video",Discovery Theater
-https://livestream.st/live/secure/iMp5UCjS6jUeoNscb2KLGYrw721yxtwi3jmr4I3--vI/1794965314/b004c4944a6fc58b/discoverytheater/index.m3u8
-#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discovery Turbo" tvg-logo="https://logocanais.pics/imagens/discoveryturbo.png" group-title="Documentários" content-type="video",Discovery Turbo
-https://livestream.st/live/secure/3hNGE8RMwC_hJJS50O1PRWucXGPFC6WcYQZcskNVjUQ/1794965325/b004c4944a6fc58b/discoveryturbo/index.m3u8
-#EXTINF:-1 tvg-id="discoveryworld" tvg-name="Discovery World" tvg-logo="https://logocanais.pics/imagens/discoveryworld.png" group-title="Documentários" content-type="video",Discovery World
-https://livestream.st/live/secure/kegYZwW2mkdhO1pbltK8w5ulsqY9I3kNu8AluI0WJi8/1794965334/b004c4944a6fc58b/discoveryworld/index.m3u8
-#EXTINF:-1 tvg-id="futura" tvg-name="Futura" tvg-logo="https://logocanais.pics/imagens/futura.png" group-title="Documentários" content-type="video",Futura
-https://rdcanais.org/futura
-#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://logocanais.pics/imagens/history.webp" group-title="Documentários" content-type="video",History
-https://livestream.st/live/secure/AYpahwQjyh1-4M4ortyscGmFhuANk223c1F_BpwGF2I/1794965590/b004c4944a6fc58b/history/index.m3u8
-#EXTINF:-1 tvg-id="history2" tvg-name="History 2" tvg-logo="https://logocanais.pics/imagens/history2.png" group-title="Documentários" content-type="video",History 2
-https://livestream.st/live/secure/PIFVgsdmYyoP8sAOwN5O8EfMmlnhEtOm9HAyvy5MMZc/1794965600/b004c4944a6fc58b/history2/index.m3u8
-#EXTINF:-1 tvg-id="band" tvg-name="Band" tvg-logo="https://logocanais.pics/imagens/band.png" group-title="Canais Abertos" content-type="video",Band
-https://rdcanais.org/band
-#EXTINF:-1 tvg-id="globo" tvg-name="Globo" tvg-logo="https://logocanais.pics/imagens/tvglobo.png" group-title="Canais Abertos" content-type="video",Globo
-https://rdcanais.org/globorj
 #EXTINF:-1 tvg-id="record" tvg-name="Record" tvg-logo="https://logocanais.pics/imagens/record.png" group-title="Canais Abertos" content-type="video",Record
-https://livestream.st/live/secure/dtzb8-urIk8QEu96kDiTNPgN3CoafY0LnaxkSlWlFos/1794965729/b004c4944a6fc58b/record/index.m3u8
+https://livestream.st/live/secure/4iqKYd48r6abYD2BHN3U0fQohoJX6nO1CRNjd-xkzq8/1795022631/2f8ffca07f63fa67/record/index.m3u8
 #EXTINF:-1 tvg-id="redetv" tvg-name="RedeTV!" tvg-logo="https://logocanais.pics/imagens/redetv.png" group-title="Canais Abertos" content-type="video",RedeTV!
-https://livestream.st/live/secure/ntam6lQoh8LV1agpJgpAYy647FTZO0II_7IvKG0l26s/1794965743/b004c4944a6fc58b/redetv/index.m3u8
+https://livestream.st/live/secure/PW2DG9DyAwsFU_vM8CsbDIEFe-rE8iQAKF2kU6He4Vg/1795022644/2f8ffca07f63fa67/redetv/index.m3u8
 #EXTINF:-1 tvg-id="saborearte" tvg-name="Sabor e Arte" tvg-logo="https://logocanais.pics/imagens/saborearte.png" group-title="Canais Abertos" content-type="video",Sabor e Arte
-https://livestream.st/live/secure/p0hz40HOWnZCv3e-q292WwyzrV5IKsCt-FsL58KbBAw/1794965753/b004c4944a6fc58b/saborearte/index.m3u8
-#EXTINF:-1 tvg-id="sbt" tvg-name="SBT" tvg-logo="https://logocanais.pics/imagens/sbt.png" group-title="Canais Abertos" content-type="video",SBT
-https://d1jvs4svzaqp8n.cloudfront.net/indexMobile.m3u8
+https://livestream.st/live/secure/PQV-02wcBdH0exFaCu-69tuf0Sew2pygv_qWVrfW2K0/1795022655/2f8ffca07f63fa67/saborearte/index.m3u8
 #EXTINF:-1 tvg-id="aparecida" tvg-name="TV Aparecida" tvg-logo="https://logocanais.pics/imagens/aparecida.png" group-title="Canais Abertos" content-type="video",TV Aparecida
-https://livestream.st/live/secure/zeTegE0vWir-DvrY303vXtP9qjqCRcHp8WuwZgrpLio/1794965940/b004c4944a6fc58b/aparecida/index.m3u8
-#EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV Brasil" tvg-logo="https://logocanais.pics/imagens/tvbrasil.png" group-title="Canais Abertos" content-type="video",TV Brasil
-https://rdcanais.org/tvbrasil
-#EXTINF:-1 tvg-id="tvcultura" tvg-name="TV Cultura" tvg-logo="https://logocanais.pics/imagens/tvcultura.png" group-title="Canais Abertos" content-type="video",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="bandsports" tvg-name="Band Sports" tvg-logo="https://logocanais.pics/imagens/bandsports.png" group-title="Esportes" content-type="video",Band Sports
-https://rdcanais.org/bandsports
-#EXTINF:-1 tvg-id="cazetv" tvg-name="Caze TV" tvg-logo="https://logocanais.pics/imagens/cazetv.webp" group-title="Esportes" content-type="video",Caze TV
-https://rdcanais.org/cazetv
-#EXTINF:-1 tvg-id="cazetv2" tvg-name="Caze TV 2" tvg-logo="https://logocanais.pics/imagens/cazetv.webp" group-title="Esportes" content-type="video",Caze TV 2
-https://rdcanais.org/cazetv2
-#EXTINF:-1 tvg-id="cazetv3" tvg-name="Caze TV 3" tvg-logo="https://logocanais.pics/imagens/cazetv.webp" group-title="Esportes" content-type="video",Caze TV 3
-https://rdcanais.org/cazetv3
-#EXTINF:-1 tvg-id="combate" tvg-name="Combate" tvg-logo="https://logocanais.pics/imagens/combate.png" group-title="Esportes" content-type="video",Combate
-https://rdcanais.org/combate
-#EXTINF:-1 tvg-id="nsports" tvg-name="NSports" tvg-logo="https://logocanais.pics/imagens/nsports.png" group-title="Esportes" content-type="video",NSports
-https://origin-fast.b-cdn.net/NSPORTS/index.m3u8
-#EXTINF:-1 tvg-id="paramountplus" tvg-name="Paramount+" tvg-logo="https://logocanais.pics/imagens/paramountplus.png" group-title="Esportes" content-type="video",Paramount+
-https://rdcanais.org/paramountplus
-#EXTINF:-1 tvg-id="paramountplus2" tvg-name="Paramount+ 2" tvg-logo="https://logocanais.pics/imagens/paramountplus.png" group-title="Esportes" content-type="video",Paramount+ 2
-https://rdcanais.org/paramountplus2
-#EXTINF:-1 tvg-id="paramountplus3" tvg-name="Paramount+ 3" tvg-logo="https://logocanais.pics/imagens/paramountplus.png" group-title="Esportes" content-type="video",Paramount+ 3
-https://rdcanais.org/paramountplus3
-#EXTINF:-1 tvg-id="paramountplus4" tvg-name="Paramount+ 4" tvg-logo="https://logocanais.pics/imagens/paramountplus.png" group-title="Esportes" content-type="video",Paramount+ 4
-https://rdcanais.org/paramountplus4
-#EXTINF:-1 tvg-id="premiereclubes" tvg-name="Premiere" tvg-logo="https://logocanais.pics/imagens/premiere.png" group-title="Esportes" content-type="video",Premiere
-https://rdcanais.org/premiereclubes
-#EXTINF:-1 tvg-id="premiere2" tvg-name="Premiere 2" tvg-logo="https://logocanais.pics/imagens/premiere.png" group-title="Esportes" content-type="video",Premiere 2
-https://rdcanais.org/premiere2
-#EXTINF:-1 tvg-id="premiere3" tvg-name="Premiere 3" tvg-logo="https://logocanais.pics/imagens/premiere.png" group-title="Esportes" content-type="video",Premiere 3
-https://rdcanais.org/premiere3
-#EXTINF:-1 tvg-id="premiere4" tvg-name="Premiere 4" tvg-logo="https://logocanais.pics/imagens/premiere.png" group-title="Esportes" content-type="video",Premiere 4
-https://rdcanais.org/premiere4
-#EXTINF:-1 tvg-id="premiere5" tvg-name="Premiere 5" tvg-logo="https://logocanais.pics/imagens/premiere.png" group-title="Esportes" content-type="video",Premiere 5
-https://rdcanais.org/premiere5
-#EXTINF:-1 tvg-id="premiere6" tvg-name="Premiere 6" tvg-logo="https://logocanais.pics/imagens/premiere.png" group-title="Esportes" content-type="video",Premiere 6
-https://rdcanais.org/premiere6
-#EXTINF:-1 tvg-id="premiere7" tvg-name="Premiere 7" tvg-logo="https://logocanais.pics/imagens/premiere.png" group-title="Esportes" content-type="video",Premiere 7
-https://rdcanais.org/premiere7
-#EXTINF:-1 tvg-id="premiere8" tvg-name="Premiere 8" tvg-logo="https://logocanais.pics/imagens/premiere.png" group-title="Esportes" content-type="video",Premiere 8
-https://rdcanais.org/premiere8
-#EXTINF:-1 tvg-id="sportv" tvg-name="Sportv" tvg-logo="https://logocanais.pics/imagens/sportv.png" group-title="Esportes" content-type="video",Sportv
-https://rdcanais.org/sportv
-#EXTINF:-1 tvg-id="sportv2" tvg-name="Sportv 2" tvg-logo="https://logocanais.pics/imagens/sportv.png" group-title="Esportes" content-type="video",Sportv 2
-https://rdcanais.org/sportv2
-#EXTINF:-1 tvg-id="sportv3" tvg-name="Sportv 3" tvg-logo="https://logocanais.pics/imagens/sportv.png" group-title="Esportes" content-type="video",Sportv 3
-https://rdcanais.org/sportv3
-#EXTINF:-1 tvg-id="sportynet" tvg-name="SportyNet" tvg-logo="https://logocanais.pics/imagens/sportynet.avif" group-title="Esportes" content-type="video",SportyNet
-https://rdcanais.org/sportynet
-#EXTINF:-1 tvg-id="sportynetplus" tvg-name="SportyNet+ 1" tvg-logo="https://logocanais.pics/imagens/sportynet.avif" group-title="Esportes" content-type="video",SportyNet+ 1
-https://rdcanais.org/sportynetplus
-#EXTINF:-1 tvg-id="sportynetplus2" tvg-name="SportyNet+ 2" tvg-logo="https://logocanais.pics/imagens/sportynet.avif" group-title="Esportes" content-type="video",SportyNet+ 2
-https://rdcanais.org/sportynetplus2
-#EXTINF:-1 tvg-id="sportynetplus3" tvg-name="SportyNet+ 3" tvg-logo="https://logocanais.pics/imagens/sportynet.avif" group-title="Esportes" content-type="video",SportyNet+ 3
-https://rdcanais.org/sportynetplus3
-#EXTINF:-1 tvg-id="xsports" tvg-name="XSports" tvg-logo="https://logocanais.pics/imagens/xsports.png" group-title="Esportes" content-type="video",XSports
-https://rdcanais.org/xsports
+https://livestream.st/live/secure/53v3mPuwO4Pt20wbgmG-ruhaRohmxJ2Tf-6Y9N3ko54/1795022880/2f8ffca07f63fa67/aparecida/index.m3u8
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://logocanais.pics/imagens/animalplanet.png" group-title="Documentários" content-type="video",Animal Planet
+https://livestream.st/live/secure/HdoW3rUfLpU2OYNiulXPAPgD2mw61J3EdfMuq0Mj8CM/1795021963/2f8ffca07f63fa67/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://logocanais.pics/imagens/discoverychannel.webp" group-title="Documentários" content-type="video",Discovery Channel
+https://livestream.st/live/secure/pj221GH8e8P1FQYoTpriWP_e0c28SglLjgex-bdUx0I/1795022122/2f8ffca07f63fa67/discoverychannel/index.m3u8
+#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="https://logocanais.pics/imagens/discoveryscience.webp" group-title="Documentários" content-type="video",Discovery Science
+https://livestream.st/live/secure/8-wCcXQ9c_WarZTGGLtchuBW6OseHC6U5l0XJ_E5zIQ/1795022166/2f8ffca07f63fa67/discoveryscience/index.m3u8
+#EXTINF:-1 tvg-id="discoverytheater" tvg-name="Discovery Theater" tvg-logo="https://logocanais.pics/imagens/discoverytheater.png" group-title="Documentários" content-type="video",Discovery Theater
+https://livestream.st/live/secure/YG13FTC_Pc2JlUQibJMbNIdLrMOW4H3acXddYL8MqM0/1795022176/2f8ffca07f63fa67/discoverytheater/index.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discovery Turbo" tvg-logo="https://logocanais.pics/imagens/discoveryturbo.png" group-title="Documentários" content-type="video",Discovery Turbo
+https://livestream.st/live/secure/Np6H3qa6RIld5p-Tb-T3_wq2ot7nZrZeA1xu9jLccAM/1795022187/2f8ffca07f63fa67/discoveryturbo/index.m3u8
+#EXTINF:-1 tvg-id="discoveryworld" tvg-name="Discovery World" tvg-logo="https://logocanais.pics/imagens/discoveryworld.png" group-title="Documentários" content-type="video",Discovery World
+https://livestream.st/live/secure/E6HxbvkLX2H-eVTxIVNK_7adTK-F6DhhCyFFq5mzuPA/1795022198/2f8ffca07f63fa67/discoveryworld/index.m3u8
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://logocanais.pics/imagens/history.webp" group-title="Documentários" content-type="video",History
+https://livestream.st/live/secure/fAJQedB02VydWKahbLSzLTG1hf5bLKwemmqXBZjmg8U/1795022464/2f8ffca07f63fa67/history/index.m3u8
+#EXTINF:-1 tvg-id="history2" tvg-name="History 2" tvg-logo="https://logocanais.pics/imagens/history2.png" group-title="Documentários" content-type="video",History 2
+https://livestream.st/live/secure/RsDiQ05RF7Xx-PnW7BI-z8P93GnR_J-47p7CtqDbVUM/1795022475/2f8ffca07f63fa67/history2/index.m3u8
+#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://logocanais.pics/imagens/adultswim.png" group-title="Entretenimento" content-type="video",Adult Swim
+https://livestream.st/live/secure/l4f9J875smZWO_70WsK6N2GeH57KMj-YcQMuvaFPSf0/1795021860/2f8ffca07f63fa67/adultswim/index.m3u8
+#EXTINF:-1 tvg-id="ae" tvg-name="AE" tvg-logo="https://logocanais.pics/imagens/ae.png" group-title="Entretenimento" content-type="video",AE
+https://livestream.st/live/secure/S_6HrdhmemLRCQeWpzn-hT0r2kZywwyyCxXMJj55XwA/1795019366/7d9ce49826587a94/aee/index.m3u8
+#EXTINF:-1 tvg-id="arte1" tvg-name="Arte1" tvg-logo="https://logocanais.pics/imagens/arte1.png" group-title="Entretenimento" content-type="video",Arte1
+https://livestream.st/live/secure/NJWI11n9VvaL7iV_EyHlBs2uVf47o7OlIqWe4ETiKTA/1795021974/2f8ffca07f63fa67/arte1/index.m3u8
+#EXTINF:-1 tvg-id="curta" tvg-name="Curta!" tvg-logo="https://logocanais.pics/imagens/curta.png" group-title="Entretenimento" content-type="video",Curta!
+https://livestream.st/live/secure/q5e7wwWfzxYoL6_sZC-siS2JYPjLCo1GzLjMqHGirsc/1795022112/2f8ffca07f63fa67/curta/index.m3u8
+#EXTINF:-1 tvg-id="discoveryheh" tvg-name="Discovery Home e Health" tvg-logo="https://logocanais.pics/imagens/discoveryheh.webp" group-title="Entretenimento" content-type="video",Discovery Home e Health
+https://livestream.st/live/secure/qKwonPMJ50R0N6jz483tsBU-E61iE0lYMqIadWIzdXs/1795022133/2f8ffca07f63fa67/discoveryhh/index.m3u8
+#EXTINF:-1 tvg-id="e" tvg-name="E!" tvg-logo="https://logocanais.pics/imagens/e.png" group-title="Entretenimento" content-type="video",E!
+https://livestream.st/live/secure/Z4lkdY75fKVp3DnE0HWEogsmmUfbY58HbArcJv_fly0/1795022208/2f8ffca07f63fa67/e/index.m3u8
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="Fashion TV" tvg-logo="https://logocanais.pics/imagens/fashiontv.png" group-title="Entretenimento" content-type="video",Fashion TV
+https://livestream.st/live/secure/VsWzGCZuznKE9iozHTwfux9a33z_Kku161LOnOVEza0/1795022220/2f8ffca07f63fa67/fashiontv/index.m3u8
+#EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" tvg-logo="https://logocanais.pics/imagens/foodnetwork.png" group-title="Entretenimento" content-type="video",Food Network
+https://livestream.st/live/secure/xjC4vpIZo8CPyyi6DYiEVhr4K8qLnw7I_qFIxPnV6-c/1795022244/2f8ffca07f63fa67/foodnetwork/index.m3u8
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://logocanais.pics/imagens/hgtv.png" group-title="Entretenimento" content-type="video",HGTV
+https://livestream.st/live/secure/tNv95_yO5GC1TejIwaZhJgpoiZWEEdyCU006HeP_uHM/1795022454/2f8ffca07f63fa67/hgtv/index.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://logocanais.pics/imagens/tlc.png" group-title="Entretenimento" content-type="video",TLC
+https://livestream.st/live/secure/pnNq2zmueAcQX1tg9MCAWbdx6oIfdkj1fAdngqQy1jo/1795022833/2f8ffca07f63fa67/tlc/index.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://logocanais.pics/imagens/amc.png" group-title="Filmes e Séries" content-type="video",AMC
+https://livestream.st/live/secure/SEcYFKA12BbYh26JSC1vAKkSRY3sHYyfa_IO8BhYJiY/1795021951/2f8ffca07f63fa67/amc/index.m3u8
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://logocanais.pics/imagens/axn.png" group-title="Filmes e Séries" content-type="video",AXN
+https://livestream.st/live/secure/PqYg6MwJ7G43ZkutmktLG7p3pPGvDmwpTTtQEyE44o0/1795021985/2f8ffca07f63fa67/axn/index.m3u8
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://logocanais.pics/imagens/cinemax.png" group-title="Filmes e Séries" content-type="video",Cinemax
+https://livestream.st/live/secure/bKOxnr8B_YW6SZ99iAQqy9W_bwJ_9t_1YEvJbJ2JrWc/1795022090/2f8ffca07f63fa67/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="discoveryid" tvg-name="Discovery ID" tvg-logo="https://logocanais.pics/imagens/discoveryid.png" group-title="Filmes e Séries" content-type="video",Discovery ID
+https://livestream.st/live/secure/eOgFojRrAIfW6ngeWzux9WVAmUPKx89oGhEGQ5u_iJY/1795022145/2f8ffca07f63fa67/discoveryid/index.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://logocanais.pics/imagens/hbo.png" group-title="Filmes e Séries" content-type="video",HBO
+https://livestream.st/live/secure/EXJ1NAOD3FTlK7LiiPRBhSVtEt2ghyM-UZEck1KoXJE/1795022382/2f8ffca07f63fa67/hbo/index.m3u8
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://logocanais.pics/imagens/hbo2.png" group-title="Filmes e Séries" content-type="video",HBO 2
+https://livestream.st/live/secure/dxqS8zAApvCqeEv7xeZ5kNDll0gLNwlfkVn2i7ljTaE/1795022392/2f8ffca07f63fa67/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="https://logocanais.pics/imagens/hbofamily.png" group-title="Filmes e Séries" content-type="video",HBO Family
+https://livestream.st/live/secure/YJpKnWgcyH5oV4_YGnSCRR3jgLC_OOY_CR_qLXF5Zts/1795022402/2f8ffca07f63fa67/hbofamily/index.m3u8
+#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO Signature" tvg-logo="https://logocanais.pics/imagens/hbosignature.png" group-title="Filmes e Séries" content-type="video",HBO Signature
+https://livestream.st/live/secure/5GempTFqIw2T2y4LNGrfpmXldaYV7kJvribHX59pDLs/1795022421/2f8ffca07f63fa67/hbosignature/index.m3u8
+#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO Xtreme" tvg-logo="https://logocanais.pics/imagens/hboxtreme.png" group-title="Filmes e Séries" content-type="video",HBO Xtreme
+https://livestream.st/live/secure/nv2pjRInEIR7_QN7REv3DGmQcNneTJeRihyltpH_vqw/1795022432/2f8ffca07f63fa67/hboxtreme/index.m3u8
+#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO+" tvg-logo="https://logocanais.pics/imagens/hboplus.png" group-title="Filmes e Séries" content-type="video",HBO+
+https://livestream.st/live/secure/lyjY4L3hr9gGNgjJorMe5y6cVlI18fKUcrIF54pFYqY/1795022444/2f8ffca07f63fa67/hboplus/index.m3u8
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="https://logocanais.pics/imagens/lifetime.png" group-title="Filmes e Séries" content-type="video",Lifetime
+https://livestream.st/live/secure/KBDmmZhVnYCjAsxVI8WNOzKnfE7Okz4IHeUzSAYlVCg/1795022500/2f8ffca07f63fa67/lifetime/index.m3u8
+#EXTINF:-1 tvg-id="sonychannel" tvg-name="Sony Channel" tvg-logo="https://logocanais.pics/imagens/sonychannel.png" group-title="Filmes e Séries" content-type="video",Sony Channel
+https://livestream.st/live/secure/Syo0_rgIN9kY76hCAwLpGTC0BWpRYWmNbd85ap6YWQ4/1795022674/2f8ffca07f63fa67/sonychannel/index.m3u8
+#EXTINF:-1 tvg-id="sonymovies" tvg-name="Sony Movies" tvg-logo="https://logocanais.pics/imagens/sonymovies.png" group-title="Filmes e Séries" content-type="video",Sony Movies
+https://livestream.st/live/secure/iosc8pjw01W5DdZJzbCcBpR7WGCKxPutasygELs4wq4/1795022685/2f8ffca07f63fa67/sonymovies/index.m3u8
+#EXTINF:-1 tvg-id="telecineaction" tvg-name="Telecine Action" tvg-logo="https://logocanais.pics/imagens/telecineaction.png" group-title="Filmes e Séries" content-type="video",Telecine Action
+https://livestream.st/live/secure/59sWJa0Ykrr2Mcuf0N9ssA92aHXVSXk2d-fzsvNbjv4/1795022771/2f8ffca07f63fa67/telecineaction/index.m3u8
+#EXTINF:-1 tvg-id="telecinecult" tvg-name="Telecine Cult" tvg-logo="https://logocanais.pics/imagens/telecinecult.png" group-title="Filmes e Séries" content-type="video",Telecine Cult
+https://livestream.st/live/secure/nm3UnQev5SubshJ2bForHnUW58XSFPJ9TYBzDdqoNwg/1795022781/2f8ffca07f63fa67/telecinecult/index.m3u8
+#EXTINF:-1 tvg-id="telecinefun" tvg-name="Telecine Fun" tvg-logo="https://logocanais.pics/imagens/telecinefun.png" group-title="Filmes e Séries" content-type="video",Telecine Fun
+https://livestream.st/live/secure/lHzJe6Wjh4Gq97xaUZMlc_7bZv4OPu9gWvDBz8JpvSE/1795022791/2f8ffca07f63fa67/telecinefun/index.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="Telecine Pipoca" tvg-logo="https://logocanais.pics/imagens/telecinepipoca.png" group-title="Filmes e Séries" content-type="video",Telecine Pipoca
+https://livestream.st/live/secure/viZALxgHXVfN-AmTIjgMMtFVlBPIIgdPHCVgB2DFmvA/1795022801/2f8ffca07f63fa67/telecinepipoca/index.m3u8
+#EXTINF:-1 tvg-id="telecinepremium" tvg-name="Telecine Premium" tvg-logo="https://logocanais.pics/imagens/telecinepremium.png" group-title="Filmes e Séries" content-type="video",Telecine Premium
+https://livestream.st/live/secure/P_wJjtlLaGuRFmBnXI95zF3NOHqdPvBD31NJFAVb13U/1795022812/2f8ffca07f63fa67/telecinepremium/index.m3u8
+#EXTINF:-1 tvg-id="telecinetouch" tvg-name="Telecine Touch" tvg-logo="https://logocanais.pics/imagens/telecinetouch.png" group-title="Filmes e Séries" content-type="video",Telecine Touch
+https://livestream.st/live/secure/MnL9FODbeMdDilIbO8e_dOgWwWcHCkOIybrqm5QvSt0/1795022823/2f8ffca07f63fa67/telecinetouch/index.m3u8
+#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT Novelas" tvg-logo="https://logocanais.pics/imagens/tntnovelas.png" group-title="Filmes e Séries" content-type="video",TNT Novelas
+https://livestream.st/live/secure/3htQhHNoVd-k4VGyLocht_vUS6kttuSYOyy4c2QSh8k/1795022848/2f8ffca07f63fa67/tntnovelas/index.m3u8
+#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Séries" tvg-logo="https://logocanais.pics/imagens/tntseries.png" group-title="Filmes e Séries" content-type="video",TNT Séries
+https://livestream.st/live/secure/iq_E3oSFEINdSpH3tqo-aTIfRaj-3Z6A194uMf6uy28/1795022858/2f8ffca07f63fa67/tntseries/index.m3u8
+#EXTINF:-1 tvg-id="warnertv" tvg-name="Warner TV" tvg-logo="https://logocanais.pics/imagens/warnertv.png" group-title="Filmes e Séries" content-type="video",Warner TV
+https://livestream.st/live/secure/QYg3_n4X9OqyIcAwi6w5-iTWmLSOTh1Igear4mM6Ms4/1795022906/2f8ffca07f63fa67/warnertv/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://logocanais.pics/imagens/cartoonnetwork.webp" group-title="Infantil" content-type="video",Cartoon Network
-https://livestream.st/live/secure/GN64qbrOXZ-xFC0KR4EEi4uOxn31LH-aaWa7d-7eV_8/1794965202/b004c4944a6fc58b/cartoonnetwork/index.m3u8
+https://livestream.st/live/secure/9KgYuvfJFBn-J0s4E8ggd1aRacPHfuGrp5QWA7r_IcY/1795022056/2f8ffca07f63fa67/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://logocanais.pics/imagens/cartoonito.webp" group-title="Infantil" content-type="video",Cartoonito
-https://livestream.st/live/secure/oIOyARul_DQTwvIs6sgqMJ_qbGrjQi-fzvhS1O58L6s/1794965212/b004c4944a6fc58b/cartoonito/index.m3u8
+https://livestream.st/live/secure/I0Ys7N6kM_nIijwJC5oiTfJvY3yPZz6qRENs2IEqX1k/1795022066/2f8ffca07f63fa67/cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" tvg-logo="https://logocanais.pics/imagens/discoverykids.png" group-title="Infantil" content-type="video",Discovery Kids
-https://livestream.st/live/secure/9UFBN352ci_RoOt-mpkr1PE4__5nl3lTVzm8j00r8Wo/1794965294/b004c4944a6fc58b/discoverykids/index.m3u8
-#EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" tvg-logo="https://logocanais.pics/imagens/gloob.png" group-title="Infantil" content-type="video",Gloob
-https://rdcanais.org/gloob
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" tvg-logo="https://logocanais.pics/imagens/gloobinho.png" group-title="Infantil" content-type="video",Gloobinho
-https://rdcanais.org/gloobinho
+https://livestream.st/live/secure/UuGAq3gTsAmEjTohowWp-0A6KX65v_ysL8w6Bo23hLc/1795022155/2f8ffca07f63fa67/discoverykids/index.m3u8
 #EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://logocanais.pics/imagens/tooncast.png" group-title="Infantil" content-type="video",Tooncast
-https://livestream.st/live/secure/BJIkMsu4QcIuVKLNes6vGQGeXfMhfjnlSn_4XX6Su1E/1794965930/b004c4944a6fc58b/tooncast/index.m3u8
+https://livestream.st/live/secure/4awlycOHUCYXV7ArZ7EX9N4wloiu6nak876WiajHG7s/1795022869/2f8ffca07f63fa67/tooncast/index.m3u8
+#EXTINF:-1 tvg-id="agromais" tvg-name="Agro+" tvg-logo="https://logocanais.pics/imagens/agromais.png" group-title="Notícias" content-type="video",Agro+
+https://livestream.st/live/secure/EJwx9A6pi_ZJUJa9igZMFx1gH8oqIQCtGuJF4fwLw9s/1795021936/2f8ffca07f63fa67/agromais/index.m3u8
