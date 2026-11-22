@@ -1,1 +1,135 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="sportv-1-op2" tvg-name="sportv 1 ❪op2❫" group-title="Esportes" content-type="video",SPORTV 1 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/be27c36eb8379b1b216c7796445e79af/index.m3u8
+#EXTINF:-1 tvg-id="sportv-2-op2" tvg-name="sportv 2 ❪op2❫" group-title="Esportes" content-type="video",SPORTV 2 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/536b30ca8c632d39863df52d78100e86/index.m3u8
+#EXTINF:-1 tvg-id="sportv-3-op2" tvg-name="sportv 3 ❪op2❫" group-title="Esportes" content-type="video",SPORTV 3 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/51d8de2eef5204679df32a2e71de8a40/index.m3u8
+#EXTINF:-1 tvg-id="espn-1-op2" tvg-name="espn 1 ❪op2❫" group-title="Esportes" content-type="video",ESPN 1 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/70a2791b067881155374486f09867362/index.m3u8
+#EXTINF:-1 tvg-id="espn-2-op2" tvg-name="espn 2 ❪op2❫" group-title="Esportes" content-type="video",ESPN 2 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/43c7d8d23d0ca989aa5088f53eeda491/index.m3u8
+#EXTINF:-1 tvg-id="espn-3-op2" tvg-name="espn 3 ❪op2❫" group-title="Esportes" content-type="video",ESPN 3 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/a7e1fcca180341aa8f683c445f2b3710/index.m3u8
+#EXTINF:-1 tvg-id="espn-4-op2" tvg-name="espn 4 ❪op2❫" group-title="Esportes" content-type="video",ESPN 4 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/d4f212a85d31d652f36d1da3d770ca1e/index.m3u8
+#EXTINF:-1 tvg-id="espn-5-op2" tvg-name="espn 5 ❪op2❫" group-title="Esportes" content-type="video",ESPN 5 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/b1bf99e6840279d05fd19c30c047a511/index.m3u8
+#EXTINF:-1 tvg-id="espn-6-op2" tvg-name="espn 6 ❪op2❫" group-title="Esportes" content-type="video",ESPN 6 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/60f7158eb1018eaae1d8549eed2f5303/index.m3u8
+#EXTINF:-1 tvg-id="premiere-clubes-op2" tvg-name="premiere clubes ❪op2❫" group-title="Esportes" content-type="video",PREMIERE CLUBES ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/26e5febc32056d1bb851ad3742d52050/index.m3u8
+#EXTINF:-1 tvg-id="premiere-2-op2" tvg-name="premiere 2 ❪op2❫" group-title="Esportes" content-type="video",PREMIERE 2 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/eb9e68a65336578770b658bcdeb04f6a/index.m3u8
+#EXTINF:-1 tvg-id="premiere-3-op2" tvg-name="premiere 3 ❪op2❫" group-title="Esportes" content-type="video",PREMIERE 3 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/b38e556df99baec93f8cd79dc8795016/index.m3u8
+#EXTINF:-1 tvg-id="premiere-4-op2" tvg-name="premiere 4 ❪op2❫" group-title="Esportes" content-type="video",PREMIERE 4 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/a9e70b75702f2efbdace4c94e83f386c/index.m3u8
+#EXTINF:-1 tvg-id="premiere-5-op2" tvg-name="premiere 5 ❪op2❫" group-title="Esportes" content-type="video",PREMIERE 5 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/a03fb3a9c3cad163916f87d64f56b783/index.m3u8
+#EXTINF:-1 tvg-id="premiere-6-op2" tvg-name="premiere 6 ❪op2❫" group-title="Esportes" content-type="video",PREMIERE 6 ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/d4d4d8a6c34b30baa353c597131101be/index.m3u8
+#EXTINF:-1 tvg-id="combate-op2" tvg-name="combate ❪op2❫" group-title="Esportes" content-type="video",COMBATE ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/fea195143ecde5c5817c0f7cb4572f0f/index.m3u8
+#EXTINF:-1 tvg-id="ge-tv" tvg-name="ge tv" group-title="Esportes" content-type="video",GE TV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="globo-rj" tvg-name="globo rj" group-title="Abertos" content-type="video",GLOBO RJ
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/fd4e4ef7a596556ae4763219ea4eadfe/index.m3u8
+#EXTINF:-1 tvg-id="globo-mg" tvg-name="globo mg" group-title="Abertos" content-type="video",GLOBO MG
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/c626911618ed9a8199a0d26ad9a9a2dc/index.m3u8
+#EXTINF:-1 tvg-id="globo-ba" tvg-name="globo ba" group-title="Abertos" content-type="video",GLOBO BA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="sbt" tvg-name="sbt" group-title="Abertos" content-type="video",SBT
+https://aovivo.maissbt.com/indexMobile.m3u8
+#EXTINF:-1 tvg-id="sbt-op2" tvg-name="sbt ❪op2❫" group-title="Abertos" content-type="video",SBT ❪OP2❫
+https://queijoquente.click/m3u8/?url=https://d1jvs4svzaqp8n.cloudfront.net/indexMobile.m3u8
+#EXTINF:-1 tvg-id="band" tvg-name="band" group-title="Abertos" content-type="video",BAND
+https://beyond.spalla.io/playlist.m3u8
+#EXTINF:-1 tvg-id="band-op2" tvg-name="band ❪op2❫" group-title="Abertos" content-type="video",BAND ❪OP2❫
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/index.m3u8
+#EXTINF:-1 tvg-id="band-op3" tvg-name="band ❪op3❫" group-title="Abertos" content-type="video",BAND ❪OP3❫
+https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjgxZTU4ZGE4LWExYzQtNGM2YS05NzFmLWI4YzhhOGU5NzE0MSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTM1MDMzNiwibmJmIjoxNzk1MzUwMzM2LCJleHAiOjE3OTc5NDIzMzYsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjgxZTU4ZGE4LWExYzQtNGM2YS05NzFmLWI4YzhhOGU5NzE0MSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.KryA78iQLTcQCYC4rBls8p4xi4RfSUOd63f6QGJNo08&uid=81e58da8-a1c4-4c6a-971f-b8c8a8e97141
+#EXTINF:-1 tvg-id="record-tv" tvg-name="record tv" group-title="Abertos" content-type="video",RECORD TV
+https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/chunklist_w1168987890.m3u8
+#EXTINF:-1 tvg-id="rede-tv" tvg-name="rede tv" group-title="Abertos" content-type="video",REDE TV
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-tv-op2" tvg-name="rede tv ❪op2❫" group-title="Abertos" content-type="video",REDE TV ❪OP2❫
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/1de2cdb20f5d2136eaccfbef9f7b09e7/index.m3u8
+#EXTINF:-1 tvg-id="tv-brasil" tvg-name="tv brasil" group-title="Abertos" content-type="video",TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="tv-cultura" tvg-name="tv cultura" group-title="Abertos" content-type="video",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="tv-gazeta" tvg-name="tv gazeta" group-title="Abertos" content-type="video",TV GAZETA
+https://dmxleo.dailymotion.com/cdn/manifest/video/x9xwtpy.m3u8?auth=1795523077-2562-ds2sngo3-ab7e6b2cc250c05c3f0c469fb1c10ca30RCrhVLnCCEXCnZU4YfnlF3FObS4AZx74UXz-UvAIJ02-TDVYacGMujEVF1V-8BApVue-bE7UinYrF3rT5HJxndS03kw0n7sTB02GDhB4EjN_a6D6qAix-aCMCP8it650KonpYrDfe5aI-ea5z4RA0Li_tgcn_DjFTD4YDH0VyRUGbe2pbzt-mLvta6KHtaTiVFYOFOcJH7GatJlho3Q5ePegKZ07ebi_tNWD8tshIwYNPwKDla8YyLkPgi976Q98WckwmCsbLgqdq6S1c3KhZozoGE7WoYiDR3clARrfu7wUdS0ZPhb9OusOc6jIH2Os2iOpZGIaxSISUl4PX-_CJyr5tokZSGfInuruV_narQnBb7DOP8P_qrf_V6WSthjp4-oz5UsWcC86ivQJ0GwFLwAQtBass00Gi33KUn6xS_Bz6pzq7eJ0bJ8Aj6MvyFpnFjtLEkTjMvffjAiz_a6gh_EMJAeQsOeJ3nqmo8imNbuhvE4odKe7cNpfd9B2WU7k7WQ8lMbaK7EEZHiDZ4ByF-UcKahwuPRrzriHRtMdi-u_4fbRF6uEUekUduR1WR7ciX48j6Us1oDAWTUkUbeyW5FxqqiLXImhMHHD1NEUjRrz1jGJLq2aeonFcIDbivy2Uyw9HRAelBo5oKfHgY-NX4lR8GMK6eITdjrP9Dnp0H1DDu4ZvjvCVwfkeYKbvPfm2Jbg1Au_MHaH_KY7QL7MnTYwog1aNt_T9ynX-YImCfLVBc4JzaqJq7hpQaimU_ToQPGkwOHyNtBxU-PKRkr2J0TwsHazKqGk2BM_vwqN-hTJJk1riyceyIL1e-CQMxsHYscLSd7mZTZQZITB4mHnXKVHniPySlm7mfWUKULMx16sGVnJgUqlFM28y3NKBDnri69RazbGOTn9UYVgr2BktqUGQnxofqjfd4j-kEImjm7BIv-SJMacSQyfwlMfmN2zUQCNE1pwvLTIxYaqLM6GVtSDfbeAzdutTR7yHJKjfeMcTO1d2jDTqgdJHNB0AQfQJg3pFRqtCWvaqR8NOVHLjlsqFwALFJnpXZBhjy14-AjVxFKl1-dFBgZNaaAyaagZ-mvF1LUHh5KiV9fMPkpe7DM3CprEJIFSfmRDORp3x3TXerV73bQ7MZt3LncJ8_QmdrrO-TEC_cF3EhbFNtBJknVWddYvj6yhJ3EQv31mD--yKj6Qh4pVr-HBHr-_X7Jx8KSe5as83VTmLUyZEJB83Ld4CqF_Dgux-PuJb88XKiLwb1FcrKmXjSb8r8WkNwD0XFqLhiPaP_RL0OHsEFPq89-HdKVtiaEt2JR9lFACluob0Ghg6uho7vCtSRIgTQM9rxGvkCp-Wl0n1_JzVwfAvQ&af=
+#EXTINF:-1 tvg-id="tv-futura" tvg-name="tv futura" group-title="Abertos" content-type="video",TV FUTURA
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
+#EXTINF:-1 tvg-id="cnn-brasil" tvg-name="cnn brasil" group-title="Notícias" content-type="video",CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
+#EXTINF:-1 tvg-id="globo-news" tvg-name="globo news" group-title="Notícias" content-type="video",GLOBO NEWS
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/012a1193bbb66e49f24773d1dc7db8d4/index.m3u8
+#EXTINF:-1 tvg-id="sbt-news" tvg-name="sbt news" group-title="Notícias" content-type="video",SBT NEWS
+https://sbtnews.maissbt.com/index.m3u8
+#EXTINF:-1 tvg-id="band-news" tvg-name="band news" group-title="Notícias" content-type="video",BAND NEWS
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f580-44cc-7dca-a222-739a761969e1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjgxZTU4ZGE4LWExYzQtNGM2YS05NzFmLWI4YzhhOGU5NzE0MSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NTM1MDMzMywibmJmIjoxNzk1MzUwMzMzLCJleHAiOjE3OTc5NDIzMzMsInVyaV9zdWIiOiIvMDE5NGY1ODAtNDRjYy03ZGNhLWEyMjItNzM5YTc2MTk2OWUxLyIsInVpZCI6IjgxZTU4ZGE4LWExYzQtNGM2YS05NzFmLWI4YzhhOGU5NzE0MSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.IUbTtIccUtROQ441CwVY6ur-t2BCoJ_P48PduClW28A&uid=81e58da8-a1c4-4c6a-971f-b8c8a8e97141
+#EXTINF:-1 tvg-id="record-news" tvg-name="record news" group-title="Notícias" content-type="video",RECORD NEWS
+https://localhost.tattoo/m3u8/player.html?m3u8=https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="classique-faroeste" tvg-name="classique faroeste" group-title="Filmes e Séries" content-type="video",CLASSIQUE FAROESTE
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-classicos" tvg-name="tv clássicos" group-title="Filmes e Séries" content-type="video",TV CLÁSSICOS
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-id="moviesphere-brazil" tvg-name="moviesphere brazil" group-title="Filmes e Séries" content-type="video",MOVIESPHERE BRAZIL
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="runtime-acao" tvg-name="runtime ação" group-title="Filmes e Séries" content-type="video",RUNTIME AÇÃO
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id="sony-one-classics" tvg-name="sony one classics" group-title="Filmes e Séries" content-type="video",SONY ONE CLASSICS
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="terraviva" tvg-name="terraviva" group-title="Variedades" content-type="video",TERRAVIVA
+https://dmxleo.dailymotion.com/cdn/manifest/video/x8qceqq.m3u8?auth=1795523077-2688-gj3oexjg-71b87fa1a0033ccf6a2c2373fec055baLenRzjjjA_3e1g8BGaRJ21LqwFzwnrhM-nCOiX_oBb9jm95FecvYQiBM9GkPglXtnOEzy7xJemiEUwtAtT7-Oea2fDC0QL4sVIctz1aQtGleQunSHcOgIc_G4Osg5uA9k2RaPTtwxbTFIoLdjqRhclig7ULfUp7vb0VFJ2FLw0DcqX-A8phgA2p2sOBwTE_l-whcXygEhTe1wEsbSLAoam6HFT2lq8L81NaEiq0TMt3FLkqrogmgypzzh5ma---JH99hy9fWXX49hmPPQHM0t3BKMBWufpI8xe0gGDh_LrDA_Ml1NbYKXSykVFKAAKHnYWbihwoqdb7ss5oP0yzQkSpVuxY6lMIVur8HdaPHoM93fJPQZabJ5ZvvDF9VYVcvwdTER-ouSCwy1-Zp_XlMSJw9AmxbRhPk7HAAdHeKjGcetfwSNXnwpOS7bYckPj_Sug8h8yqMDDRSPlbYbMh19ZZ90rJgNfadqjjYIeb19CRX5lg_l4arbBwLH_gX3KIUpONNZSKsX-V8iUhlMJwiEF4siiKaVefYuvYDJk-X3wyRWMlh9AxiagtHOaLhoRp1cZKdsO-sfCFNR5hMc4D5CfLM3P9_k6Pqg0j83ZlfBnGKcA1Y0LiCsJcdP-JZg2-nvIa0g_XXbUR-6sKim9kOWvSuxDtpIKlab5u5kWnGur-gx72B2VepqFMY9eskowoAlmgRGubUZf62z0Uv7av9Cd4HODFtLt8Ouni1vaZmlGjma0NFXF-_wyxq-vR-0sDEUbqsVkeerszw1ywpALRXSaD55aa8VD-_-h2znPVZyq3yjR7pe1--BPePT75NP_xFIvq1DPdFvjxlDajKyvukL4yaQ1IuZhsdSLcFvD3j3GCas1rZraRWFTiRc9uiKWE7jbIkl9_RRDRF2Y9qW-1fpG7PyLPur4g1AC-fqoOwDXgogal7wRofIYrAxSwJMWn5-dWCAlOaXVe9fICDiyHHP0n_jKR4PZy8P4JHjj_BLicxRC5TH2b36r_S-z-JfwAMPYexU3JyZ8-Zdz-5R8qm6uB7JloDHJ-aj-6cRVSbU9ABVkt0dEzvSGSIGwCKiIxErw4pO7EttWpcXLWj76we6HpjXcE5ENrMr7CPDbcvUFn4iLP11I-mkGtg8igVMVI4315a0ZYr231vfRX95gPoAAVU4kCd-tiQKh_msjmUCOLXkfEEdXNnl5hGwMfkQxDsu&af=
+#EXTINF:-1 tvg-id="tv-a-critica" tvg-name="tv a crítica" group-title="Variedades" content-type="video",TV A CRÍTICA
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="cartoon network" group-title="Infantil" content-type="video",CARTOON NETWORK
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/bb849905098603b7200b278fc1bfdde9/index.m3u8
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="nicktoons" group-title="Infantil" content-type="video",NICKTOONS
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="tooncast" tvg-name="tooncast" group-title="Infantil" content-type="video",TOONCAST
+http://170.83.16.50:80/TOONCAST/index.m3u8
+#EXTINF:-1 tvg-id="tooncast-op2" tvg-name="tooncast ❪op2❫" group-title="Infantil" content-type="video",TOONCAST ❪OP2❫
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn13embed.xyz/tooncast/index.m3u8
+#EXTINF:-1 tvg-id="otaku-sign-tv" tvg-name="otaku sign tv" group-title="Infantil" content-type="video",OTAKU SIGN TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="os-simpsons-24h" tvg-name="os simpsons 24h" group-title="Infantil" content-type="video",OS SIMPSONS 24H
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/46556317da79b756b0921e50d115c567/index.m3u8
+#EXTINF:-1 tvg-id="chaves-24h" tvg-name="chaves 24h" group-title="Infantil" content-type="video",CHAVES 24H
+https://d6d267009e3689204a37cc699b652d32.s25-cloudfront-net.lat/stream/8062be0a0294c6ce20edc68282e885f0/index.m3u8
+#EXTINF:-1 tvg-id="retro-cartoon" tvg-name="retrô cartoon" group-title="Infantil" content-type="video",RETRÔ CARTOON
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="loading-tv" tvg-name="loading tv" group-title="Infantil" content-type="video",LOADING TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="gospel-cartoon" tvg-name="gospel cartoon" group-title="Infantil" content-type="video",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="dreamworks" group-title="Infantil" content-type="video",DREAMWORKS
+https://cdn-aovivo-atualplay.nxtv.com.br/DREAMWORKS/index.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc-609daadc8b88
+#EXTINF:-1 tvg-id="play-tv" tvg-name="play tv" group-title="Músicas" content-type="video",PLAY TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="top-tv" tvg-name="top tv" group-title="Músicas" content-type="video",TOP TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 tvg-id="89-a-radio-rock" tvg-name="89 a rádio rock" group-title="Músicas" content-type="video",89 A RÁDIO ROCK
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7wjrui.m3u8?auth=1795523107-2562-qdjwz1lq-0934fcbd3fa7429de26cc2dd65b68044JoFK3NTtH8mcfuEhWxGicnJXfFjZ5Htammw0HhSPBKDJ2_hy3sSGJqq1RQI5w58auSTkmU_Axr5ofvdBs5XcHzXsXzZXbXHNWWTcSaa24QGMzjE9-X4zKDfGMnRh5hkLr0w_CdxEqRJBo0bvqZ5LssT-4Z1guk-isvaPM8bgpYZGGm_f7RVQssY690ZJCtvjwXZVksfN2jQivZerM7E9i-6buKe_SDchSfi0CxMEDft-pk21glBX3a7K7RZB-yoXUtGHPZ29hUKbAiADPy5WlBh_bWpgpujmBy_vwJyXHjj4oeebxHbSpDYLWZsebR4nKWDc1M10tmtpR-rDEIPjtHEPaVTlvvYlr0zVUqJUPoLymJp3pGe7xTcPD3m4qxWka_wb484h_Ag4oBaH46Rq9482gEaMDTsy0U7Z4HTNtpHw0Ys-jTnYp1pdQsYeOEizhC-FEq8UO0qWPL_mvzU2MAOWQDgoUKyQH11gHFne3PXheqQjnE131DSatrftPWJnPJWSuRHgVQTeexlxPUS994e0Tn73vRLuz6Lja5VMY_2kw9tscStey1_0snNMqk2StKPpHxliht9N02e05oV3IR-PcDhOw2r1cG_eMY4fv6V6rYqRuXyB_iDUYXa98NvllyD1azjIBvMll3F1Kk2yLdZf-IUGk0t6mpcrIHkYBPeDWxYlGNLK1ygg8dFsGdpr2b1mc_jNUnKIqEFLONPQCZjRDXi-P2J7fVJ0p312C5ik_SZFLCHGhbXGo4JenucW-1bBGSzr9PYRYRj-L2CPt5YqdmScwvVrP-J-OOYXSev4C1fSOOeHHO-kma5J6XqOIo0HMeGz0l3ePeYdPCT7NC1q73_lYozImlOnY2H4kiLryyCMKCY_UiFedu6VGVbPJnrxKlAhWtA3KKxskgZuk6z6qFAjS4xogSeigqa-hYsvuUb-nJjNIi-9SyxBXfvDMux0rcks8thwd7T3-FekWTmltsfdBL6sXz2Lv_KMbR_BL7QtUQ5SUSf1x7iLkotZifxd2ei5JG0-J-qJFLDc5ZR7qVpG8at3dsYJAZvUPpyJR7DabYJQHiUwjdOVn3_qeKRQA366UK8a8uk1iLw0jkk2u194nq8CAl4g0c6K6GgftqvA2m8mNPP9Xfsgf8TWk&af=
+#EXTINF:-1 tvg-id="now-rock" tvg-name="now rock" group-title="Músicas" content-type="video",NOW ROCK
+https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="retro-music" tvg-name="retro music" group-title="Músicas" content-type="video",RETRO MUSIC
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trace-urban" tvg-name="trace urban" group-title="Músicas" content-type="video",TRACE URBAN
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="trace-brazuca" tvg-name="trace brazuca" group-title="Músicas" content-type="video",TRACE BRAZUCA
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-vida" tvg-name="rede vida" group-title="Religiosos" content-type="video",REDE VIDA
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:-1 tvg-id="tv-pai-eterno" tvg-name="tv pai eterno" group-title="Religiosos" content-type="video",TV PAI ETERNO
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-gospel" tvg-name="rede gospel" group-title="Religiosos" content-type="video",REDE GOSPEL
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-novo-tempo" tvg-name="tv novo tempo" group-title="Religiosos" content-type="video",TV NOVO TEMPO
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-seculo-21" tvg-name="tv século 21" group-title="Religiosos" content-type="video",TV SÉCULO 21
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
