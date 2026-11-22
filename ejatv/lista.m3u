@@ -1,1 +1,433 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="eja.d8f26310c4112450bd3fbb17" tvg-name="NickToons Brasil" tvg-logo="https://eja.tv/snaps/d8f26310c4112450bd3fbb17a2f16db5e4a56f520aea4a0fa80259bd74afbad7.png" group-title="Animation / Kids",NickToons Brasil
+#EXTSIZE:medium
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.f6bb9b92ec9a87ef48f36818" tvg-name="AWTV" tvg-logo="https://eja.tv/snaps/f6bb9b92ec9a87ef48f36818476b1e0b6cb539fdcc29f7f615b727ec55530207.png" group-title="Classic / Series",AWTV
+#EXTSIZE:medium
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="eja.6945c28f8a5b5a7a564f1be7" tvg-name="Retro Cartoon" tvg-logo="https://eja.tv/snaps/6945c28f8a5b5a7a564f1be73b6a327537471cf871bdd058d0c2937eba83ffcc.png" group-title="Classic",Retro Cartoon
+#EXTSIZE:medium
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+#EXTINF:-1 tvg-id="eja.5f840e6560f408a914f1d1db" tvg-name="Bem Mais TV" tvg-logo="https://eja.tv/snaps/5f840e6560f408a914f1d1dba2fb276e65d7b85b218cf90ee29f11a7cede1a77.png" group-title="Culture / Education",Bem Mais TV
+#EXTSIZE:medium
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.11dbffabbd31e21f8ce61250" tvg-name="STZ TV" tvg-logo="https://eja.tv/snaps/11dbffabbd31e21f8ce61250f1bff3554f91d7d8f151274ead99eb9892472bab.png" group-title="Culture / News",STZ TV
+#EXTSIZE:medium
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.e3031e49ca680fc6b0300952" tvg-name="TV Life America" tvg-logo="https://eja.tv/snaps/e3031e49ca680fc6b0300952cbf0024dd1c6f1200eabd827bf7c505c1a667513.png" group-title="Culture",TV Life America
+#EXTSIZE:medium
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="eja.315e3adaa6422470b491cac5" tvg-name="TV UFOP" tvg-logo="https://eja.tv/snaps/315e3adaa6422470b491cac520c0b4b062d6c2a1aa5d7d2ea4225af38721c2a9.png" group-title="Culture / Education / Public",TV UFOP
+#EXTSIZE:medium
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-id="eja.fdee5c7adb0f2f11f9b458c0" tvg-name="TVE RS" tvg-logo="https://eja.tv/snaps/fdee5c7adb0f2f11f9b458c0d28ac57f2f8d5a7e08cf80c31a6f604bdd2f6374.png" group-title="Culture / Education",TVE RS
+#EXTSIZE:medium
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.32ed11638ed60d191a332be1" tvg-name="UNISUL TV" tvg-logo="https://eja.tv/snaps/32ed11638ed60d191a332be17296cc06dee1be5af9bf4b7f21f7e4c2dff8e706.png" group-title="Culture / Education",UNISUL TV
+#EXTSIZE:medium
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="eja.ca9fff20aeeff9616f68d94e" tvg-name="History" tvg-logo="https://eja.tv/snaps/ca9fff20aeeff9616f68d94e91c85b41216cb1132a4736c9ae3f3ab554c781c1.png" group-title="Documentary",History
+#EXTSIZE:medium
+http://170.83.16.50/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="eja.08cd379efda26642ed8e2078" tvg-name="AgroCanal" tvg-logo="https://eja.tv/snaps/08cd379efda26642ed8e20789a69a2ad94d9bbddfd928296bdca04a0fb4e1f3f.png" group-title="Education / Outdoor",AgroCanal
+#EXTSIZE:medium
+http://186.219.52.187/agro_canal/index.m3u8
+#EXTINF:-1 tvg-id="eja.d2415ab9973a45c6a1a023ed" tvg-name="Canal Educação" tvg-logo="https://eja.tv/snaps/d2415ab9973a45c6a1a023ed802b1aee400b97f427d4debe1f49f18ac861be27.png" group-title="Education",Canal Educação
+#EXTSIZE:medium
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="eja.1a5b35b52f33ef18ff72295f" tvg-name="Canal Futura" tvg-logo="https://eja.tv/snaps/1a5b35b52f33ef18ff72295f4e26d0b3d62e8e0221711763537f698609964fb7.png" group-title="Education",Canal Futura
+#EXTSIZE:medium
+http://170.83.16.50/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="eja.87d7a00e57450a796c82f40e" tvg-name="Canal Futura (2)" tvg-logo="https://eja.tv/snaps/87d7a00e57450a796c82f40eeba447e1a28c026545900607939ce7c36022e6c8.png" group-title="Education",Canal Futura (2)
+#EXTSIZE:medium
+http://186.219.52.187/futura/index.m3u8
+#EXTINF:-1 tvg-id="eja.556030d1c1d48c0c76ae1740" tvg-name="ISTV" tvg-logo="https://eja.tv/snaps/556030d1c1d48c0c76ae17400c178b0f67f45e910dd630fa5e8408d91aec272f.png" group-title="Education",ISTV
+#EXTSIZE:medium
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.82b15c897f2566f4d9f8c4f0" tvg-name="+MaisUm" tvg-logo="https://eja.tv/snaps/82b15c897f2566f4d9f8c4f0f6b200b7e98bd575573fb1afa392ad608b092311.png" group-title="Entertainment / General / Movies / Music",+MaisUm
+#EXTSIZE:medium
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="eja.ff6f64e379cc9d1c50099bf0" tvg-name="Chroma TV" tvg-logo="https://eja.tv/snaps/ff6f64e379cc9d1c50099bf0053f1ac887f4d1b11cb5f753b8c94f47bfe36c14.png" group-title="Entertainment",Chroma TV
+#EXTSIZE:medium
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.6522c41891583f2763834302" tvg-name="Conecta Mais TV" tvg-logo="https://eja.tv/snaps/6522c41891583f27638343028abce78666c8811d12e81432867d811b13a0d0a8.png" group-title="Entertainment",Conecta Mais TV
+#EXTSIZE:medium
+https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+#EXTINF:-1 tvg-id="eja.e3556f89ac84ce8eb8d4405a" tvg-name="ElyTV" tvg-logo="https://eja.tv/snaps/e3556f89ac84ce8eb8d4405a9a7d520bd5079ee8e84b20dd9dbcba37a7c7c4a3.png" group-title="Entertainment",ElyTV
+#EXTSIZE:medium
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.8928f13f6e491817683ddd05" tvg-name="Loading" tvg-logo="https://eja.tv/snaps/8928f13f6e491817683ddd05e7485da10b7cb150cec4d177699641269d579ece.png" group-title="Entertainment",Loading
+#EXTSIZE:medium
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.192a5265a7865caf9502dab3" tvg-name="NTV" tvg-logo="https://eja.tv/snaps/192a5265a7865caf9502dab38f6ac1ca4c0db86f3fa5d96c8b095add568ef9fb.png" group-title="Entertainment / General",NTV
+#EXTSIZE:medium
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.fad26124a5e5d4bd514cc098" tvg-name="Rede NGT" tvg-logo="https://eja.tv/snaps/fad26124a5e5d4bd514cc098c64102d60353840acb89f27be081e0abc84f09f4.png" group-title="Entertainment",Rede NGT
+#EXTSIZE:medium
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="eja.6c042c9797a962fcd1e44fc4" tvg-name="TV Curuça" tvg-logo="https://eja.tv/snaps/6c042c9797a962fcd1e44fc464bac8328b510bf691246a921ce0925c7b544c5b.png" group-title="Entertainment",TV Curuça
+#EXTSIZE:medium
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.5e2ebf1f0dded39dbe10db14" tvg-name="TV Grande Natal" tvg-logo="https://eja.tv/snaps/5e2ebf1f0dded39dbe10db14e22feb3ff4a3dde30ef42fa4658ddf194f36b0d2.png" group-title="Entertainment",TV Grande Natal
+#EXTSIZE:medium
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="eja.f9ef913ad994513b89886c77" tvg-name="TV Viçosa" tvg-logo="https://eja.tv/snaps/f9ef913ad994513b89886c77ec0c4465686a4939da651f0070d10698d4cb502d.png" group-title="Entertainment",TV Viçosa
+#EXTSIZE:medium
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.d135cc08226138d4b60c5d56" tvg-name="TV Zoom" tvg-logo="https://eja.tv/snaps/d135cc08226138d4b60c5d56fbd7e8010df9a37a91e07145376e5a9ce5ce2bbf.png" group-title="Entertainment / News",TV Zoom
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.8d3488bac8ec3b8d61b3bb58" tvg-name="UMA TV" tvg-logo="https://eja.tv/snaps/8d3488bac8ec3b8d61b3bb58404e474b44bb78673998359ecbb37af9b8d1ca83.png" group-title="Entertainment",UMA TV
+#EXTSIZE:medium
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="eja.8ba09786771f6cea10cfbe35" tvg-name="Adesso TV" tvg-logo="https://eja.tv/snaps/8ba09786771f6cea10cfbe351ea9858143a2c971070fc60646cc4633e2bccf74.png" group-title="General",Adesso TV
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.118dd281fa2f9a9ca893a926" tvg-name="Araruna TV" tvg-logo="https://eja.tv/snaps/118dd281fa2f9a9ca893a9267faf299b0a73473001c8d4245b8d891e8d883a0a.png" group-title="General",Araruna TV
+#EXTSIZE:medium
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.b6557c1289e5e60164af8f89" tvg-name="COM Brasil" tvg-logo="https://eja.tv/snaps/b6557c1289e5e60164af8f89948c02b375c5043e824cef52c4667c6dd2a8ed95.png" group-title="General",COM Brasil
+#EXTSIZE:medium
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.1acc2615c69fbee5676e6d97" tvg-name="ConecTV Brasil" tvg-logo="https://eja.tv/snaps/1acc2615c69fbee5676e6d97d87f2804378bea9b6342ccbbb14bcdad72416e3c.png" group-title="General",ConecTV Brasil
+#EXTSIZE:medium
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="eja.e4d9e8c292cc41402825852f" tvg-name="Demais TV" tvg-logo="https://eja.tv/snaps/e4d9e8c292cc41402825852f78fe3726f4d8d691409d1748e684b74697429d1d.png" group-title="General",Demais TV
+#EXTSIZE:medium
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.2c23308faf76abce07a50025" tvg-name="EUTV" tvg-logo="https://eja.tv/snaps/2c23308faf76abce07a500259b15e5603add06be1784b90aa0457b9aa23e2768.png" group-title="General",EUTV
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.c8c6441900987a714f5005fb" tvg-name="Fala Litoral" tvg-logo="https://eja.tv/snaps/c8c6441900987a714f5005fb09e821e3a33e4d27af34368572a1c41d945821dc.png" group-title="General",Fala Litoral
+#EXTSIZE:medium
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.892ddda1a8d09618d7745ce2" tvg-name="O Dia TV" tvg-logo="https://eja.tv/snaps/892ddda1a8d09618d7745ce23c0bd047c63e4e2e1754b3a570b5878f1aab9c5a.png" group-title="General",O Dia TV
+#EXTSIZE:medium
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.f9edc282157e3f5dac5aad90" tvg-name="Primer TV" tvg-logo="https://eja.tv/snaps/f9edc282157e3f5dac5aad90eeb55d1f4bb65a54b7ed62f9966a73a08b662617.png" group-title="General",Primer TV
+#EXTSIZE:medium
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.729c16cdb5653e846c14e85f" tvg-name="RBATV" tvg-logo="https://eja.tv/snaps/729c16cdb5653e846c14e85f4b64eaa6a489ddd0f847e7fd558e263d40dacca8.png" group-title="General",RBATV
+#EXTSIZE:medium
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.bd743085dab8755a02b63a7b" tvg-name="RecordTV" tvg-logo="https://eja.tv/snaps/bd743085dab8755a02b63a7b31a2357d47cc76c367b9e2a7a97c555dacb28d13.png" group-title="General",RecordTV
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="eja.621ebb5d40548bc8448703c1" tvg-name="Rede SPTV" tvg-logo="https://eja.tv/snaps/621ebb5d40548bc8448703c1d8eb897b16285d1812315a2dfd8ff54041df34ef.png" group-title="General",Rede SPTV
+#EXTSIZE:medium
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.49cbfdf69c75279e40c31dbc" tvg-name="Rede TV! Mais" tvg-logo="https://eja.tv/snaps/49cbfdf69c75279e40c31dbc308f2e1ce0da6306194e7b1e0c8fefce17d391d6.png" group-title="General",Rede TV! Mais
+#EXTSIZE:medium
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.1362e59e24bdda60b6ba99ea" tvg-name="SBT Interior" tvg-logo="https://eja.tv/snaps/1362e59e24bdda60b6ba99ea3d98b87d7897d7494ac189e385411d9fc4e82af0.png" group-title="General",SBT Interior
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.d962e0b8280d35e2ee7300e2" tvg-name="SOU TV" tvg-logo="https://eja.tv/snaps/d962e0b8280d35e2ee7300e25fc079b768116d16cc64fe13099178dfba755a63.png" group-title="General",SOU TV
+#EXTSIZE:medium
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.895b647fb91b0134835abca3" tvg-name="TV Aldeia" tvg-logo="https://eja.tv/snaps/895b647fb91b0134835abca3c33898d690d43dd343d60d324732d7e12ef5251d.png" group-title="General",TV Aldeia
+#EXTSIZE:medium
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.4734bee51a3f31e6210f8b19" tvg-name="TV Aliança Catarinense" tvg-logo="https://eja.tv/snaps/4734bee51a3f31e6210f8b19db9b4eb0d278a747a8b854f4ef516716ae40ab83.png" group-title="General",TV Aliança Catarinense
+#EXTSIZE:medium
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.94ad9d7a2b279d8e0ee6522d" tvg-name="TV Alternativa" tvg-logo="https://eja.tv/snaps/94ad9d7a2b279d8e0ee6522d5b03aae2137178ed8977d055de4d5822b363e451.png" group-title="General",TV Alternativa
+#EXTSIZE:medium
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.06d0174691512ae8531eb5d2" tvg-name="TV Brasil Oeste" tvg-logo="https://eja.tv/snaps/06d0174691512ae8531eb5d286c63793a1ef00c11bfcfa1a55c9c33c3995930c.png" group-title="General",TV Brasil Oeste
+#EXTSIZE:medium
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.fe59f8b08ff77d1d3eea310f" tvg-name="TV Difusao" tvg-logo="https://eja.tv/snaps/fe59f8b08ff77d1d3eea310fa084315daba895e3401d4db3f8bb50d0897a1e9e.png" group-title="General",TV Difusao
+#EXTSIZE:medium
+https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.c7f978d9f41dbba64b124c87" tvg-name="TV Mais Maricá" tvg-logo="https://eja.tv/snaps/c7f978d9f41dbba64b124c8795af025a6270f4a5c4d43bfe1bf431875bcb5986.png" group-title="General",TV Mais Maricá
+#EXTSIZE:medium
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.356b6f14a33f2938fad35954" tvg-name="TV Marajoara" tvg-logo="https://eja.tv/snaps/356b6f14a33f2938fad359544a9f94daa479a2660f3c97aa1a8a31e19da31a0a.png" group-title="General",TV Marajoara
+#EXTSIZE:medium
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.38560fc16082546a1db02a77" tvg-name="TV Metropole" tvg-logo="https://eja.tv/snaps/38560fc16082546a1db02a771ba4f0331feb1a35e5c3d6d629f09f4c25d43d3b.png" group-title="General",TV Metropole
+#EXTSIZE:medium
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.a5c135a60b418518d3d0f78b" tvg-name="TV Pampa" tvg-logo="https://eja.tv/snaps/a5c135a60b418518d3d0f78b24f5b1d4f359d8203d3ae089d40825c85ce2bd1d.png" group-title="General",TV Pampa
+#EXTSIZE:medium
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.f533321f0f64a0780e5464ab" tvg-name="TV Passo Fundo" tvg-logo="https://eja.tv/snaps/f533321f0f64a0780e5464ab667d301cb9c829cbceae13d5996eddcc7d6b2ef2.png" group-title="General",TV Passo Fundo
+#EXTSIZE:medium
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.126413e85b6b50c2728acbdb" tvg-name="TV Petropolis" tvg-logo="https://eja.tv/snaps/126413e85b6b50c2728acbdb09e743aaae2e77a8ab4c6bd8ef2acb5742722435.png" group-title="General",TV Petropolis
+#EXTSIZE:medium
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.1fbe658f43891694c9c7eaf6" tvg-name="TV São Raimundo" tvg-logo="https://eja.tv/snaps/1fbe658f43891694c9c7eaf633ecea641d9eb9882e5a9ef739cfdbf8885898ef.png" group-title="General",TV São Raimundo
+#EXTSIZE:medium
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.cc7719acc1ccc79e70f13901" tvg-name="TVCOM DF" tvg-logo="https://eja.tv/snaps/cc7719acc1ccc79e70f139016dff6ada7c8c60bb8dd25c24a9a03463e17bc462.png" group-title="General",TVCOM DF
+#EXTSIZE:medium
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="eja.ace64c90926ef92b37b380d4" tvg-name="TVCOM Maceió" tvg-logo="https://eja.tv/snaps/ace64c90926ef92b37b380d4d0e9f73e797e9689b8b34c9bf0190b505f31a96b.png" group-title="General",TVCOM Maceió
+#EXTSIZE:medium
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.9266c9dd3f63e18f1b0d4338" tvg-name="TVitapé" tvg-logo="https://eja.tv/snaps/9266c9dd3f63e18f1b0d4338456582952d28458ed33883ed3d93417a2cde0540.png" group-title="General",TVitapé
+#EXTSIZE:medium
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="eja.4e8bfd4392e16e5c7c252c9c" tvg-name="TVLatinaSat" tvg-logo="https://eja.tv/snaps/4e8bfd4392e16e5c7c252c9c9ca9285f0f43d33cd0095ea53eef8bd280341c5a.png" group-title="General",TVLatinaSat
+#EXTSIZE:medium
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="eja.8961c4890527a850a9a1a6ad" tvg-name="TVNBN" tvg-logo="https://eja.tv/snaps/8961c4890527a850a9a1a6adfb2a799ca1cc733fda90b429345ead06f07243ce.png" group-title="General",TVNBN
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.deba9580c76b1125473a55cc" tvg-name="Nickelodeon" tvg-logo="https://eja.tv/snaps/deba9580c76b1125473a55cc038099c9fc9523df5d2ecce341ec07e1a4659189.png" group-title="Kids",Nickelodeon
+#EXTSIZE:medium
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.12b07fbaf5bab15aeb19bda0" tvg-name="Canal Gov" tvg-logo="https://eja.tv/snaps/12b07fbaf5bab15aeb19bda0239716149a0a553869eb85f800b4132901e37b8c.png" group-title="Legislative",Canal Gov
+#EXTSIZE:medium
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="eja.b80293db1c1d0a1f698ab688" tvg-name="TV Camara" tvg-logo="https://eja.tv/snaps/b80293db1c1d0a1f698ab688c6e7f6e5a62c6ddba6a87c8f2a6fcd3bacdc6ee3.png" group-title="Legislative",TV Camara
+#EXTSIZE:medium
+http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
+#EXTINF:-1 tvg-id="eja.861b796285f4d3243cf015be" tvg-name="TV Camara (2)" tvg-logo="https://eja.tv/snaps/861b796285f4d3243cf015be49c75640208cf493c4108d167dd5bf3873ecc840.png" group-title="Legislative",TV Camara (2)
+#EXTSIZE:medium
+http://186.219.52.187/tv_camara/index.m3u8
+#EXTINF:-1 tvg-id="eja.0fcb6e3039905d4bc780c242" tvg-name="TV Câmara" tvg-logo="https://eja.tv/snaps/0fcb6e3039905d4bc780c242c5b4b614b251e401ad4692006355637b18ede77e.png" group-title="Legislative",TV Câmara
+#EXTSIZE:medium
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="eja.d42157c2d954f7013433dc00" tvg-name="CINDIE TV" tvg-logo="https://eja.tv/snaps/d42157c2d954f7013433dc00a655e55cd2367ac9aff506643d8127bac9cce6b5.png" group-title="Movies",CINDIE TV
+#EXTSIZE:medium
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="eja.92146c9948770127a1129cf7" tvg-name="Classique TV" tvg-logo="https://eja.tv/snaps/92146c9948770127a1129cf7ae0a5804c4c2a74ea56ed247a219108da9aed226.png" group-title="Movies",Classique TV
+#EXTSIZE:medium
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.6f009b88ae70f618aeb8d946" tvg-name="MyTime Movie Network Brazil" tvg-logo="https://eja.tv/snaps/6f009b88ae70f618aeb8d94606ef25499559302135d60c4a547db72e6fd3383f.png" group-title="Movies",MyTime Movie Network Brazil
+#EXTSIZE:medium
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.662d88532f98b45ac912adaa" tvg-name="Sony Movies" tvg-logo="https://eja.tv/snaps/662d88532f98b45ac912adaa4eda7be5df96d1961f5e83b39924076b2e48af08.png" group-title="Movies",Sony Movies
+#EXTSIZE:medium
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="eja.6ae65b51180be295b501db74" tvg-name="Lamore Rock Show WebTV" tvg-logo="https://eja.tv/snaps/6ae65b51180be295b501db74e9b38a0839a7d91888f5b5db438fcabb4ec799c2.png" group-title="Music",Lamore Rock Show WebTV
+#EXTSIZE:medium
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.9ca3776c2743916b682bad9b" tvg-name="Music Box Brazil" tvg-logo="https://eja.tv/snaps/9ca3776c2743916b682bad9b65b3946eb396466509aa995cb747b4f36cd61246.png" group-title="Music",Music Box Brazil
+#EXTSIZE:medium
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="eja.f4ea22aa5ce8f9c2e97ef27a" tvg-name="AgroMais" tvg-logo="https://eja.tv/snaps/f4ea22aa5ce8f9c2e97ef27aef4e1b6d7b05bb22c4b6b1af3fd4cc17ee4d699b.png" group-title="News",AgroMais
+#EXTSIZE:medium
+http://170.83.16.50/AGRO_MAIS/index.m3u8
+#EXTINF:-1 tvg-id="eja.e95bbb2ba9c6149364ddf5e7" tvg-name="Aratu On" tvg-logo="https://eja.tv/snaps/e95bbb2ba9c6149364ddf5e716d3de700c784c607da2fa3e9ac4ec22249635d0.png" group-title="News",Aratu On
+#EXTSIZE:medium
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.f4a5601d3b5b05b264640d28" tvg-name="BandNews" tvg-logo="https://eja.tv/snaps/f4a5601d3b5b05b264640d2800ca52e0eea2938ff8b9b40f01fe519e1716f5e9.png" group-title="News",BandNews
+#EXTSIZE:medium
+http://170.83.16.50/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="eja.c35e0a210a72dcfac3db7764" tvg-name="BandNews (2)" tvg-logo="https://eja.tv/snaps/c35e0a210a72dcfac3db77642dea6619991b37ba6aadbfc977f7cc7321840a08.png" group-title="News",BandNews (2)
+#EXTSIZE:medium
+http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="eja.97494615aecb2a2c838e553d" tvg-name="Canal 38" tvg-logo="https://eja.tv/snaps/97494615aecb2a2c838e553d300762a034141dbf4e83820eddb6594a4fb8e0a9.png" group-title="News",Canal 38
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.e5eebd6a25b149b87901a6e0" tvg-name="Canal Metropolitano de Noticias" tvg-logo="https://eja.tv/snaps/e5eebd6a25b149b87901a6e06d6b3cb10eb3a0873586ab53395b4196f91a5c14.png" group-title="News",Canal Metropolitano de Noticias
+#EXTSIZE:medium
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.234129f5fff04bf06a1e78a4" tvg-name="CNN Brasil" tvg-logo="https://eja.tv/snaps/234129f5fff04bf06a1e78a4157dd10d8090a1cddffd4e128a7581807321aa00.png" group-title="News",CNN Brasil
+#EXTSIZE:medium
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="eja.cdae1c8fb7fe3cc71a612a69" tvg-name="Plena TV" tvg-logo="https://eja.tv/snaps/cdae1c8fb7fe3cc71a612a69b50ca352eb4ee9ba05f892fceda15d237643472e.png" group-title="News",Plena TV
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.7a7a6d5684e6cdbac9142a61" tvg-name="SBT News" tvg-logo="https://eja.tv/snaps/7a7a6d5684e6cdbac9142a616bf4b8c904ee9d8e38d593de991f9e4f8880d244.png" group-title="News",SBT News
+#EXTSIZE:medium
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="eja.f4ffb48a7934886a5fbab859" tvg-name="TCM 10 HD" tvg-logo="https://eja.tv/snaps/f4ffb48a7934886a5fbab859151c0dde19d38d7270880a50eae1a14cfd2fe7d4.png" group-title="News",TCM 10 HD
+#EXTSIZE:medium
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="eja.f3443a2db2bed7101359eff5" tvg-name="TV A Folha" tvg-logo="https://eja.tv/snaps/f3443a2db2bed7101359eff5f179f0515a520dd9f71899ab0fccdfb476dc0a41.png" group-title="News",TV A Folha
+#EXTSIZE:medium
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.5e739d8fe41d841e392a3d0e" tvg-name="TV Brusque" tvg-logo="https://eja.tv/snaps/5e739d8fe41d841e392a3d0efa0770a377b9c2ff53e28da47022b1f07252cdda.png" group-title="News",TV Brusque
+#EXTSIZE:medium
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.4728d49bfe1a78eb4649c7ee" tvg-name="TV Sim Cachoeiro" tvg-logo="https://eja.tv/snaps/4728d49bfe1a78eb4649c7eef53c9df9a7dfcf4503d5e3c23fce9a6dc34b03e7.png" group-title="News",TV Sim Cachoeiro
+#EXTSIZE:medium
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.e30ae6da0bc3afc0895eb9d0" tvg-name="TVídeoNews" tvg-logo="https://eja.tv/snaps/e30ae6da0bc3afc0895eb9d01c1d25948ed82245ce27f20e48c285c9376deded.png" group-title="News",TVídeoNews
+#EXTSIZE:medium
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.6b47b7c81c217fb99243b0e1" tvg-name="Canal Rural" tvg-logo="https://eja.tv/snaps/6b47b7c81c217fb99243b0e19591783710abcc9b3245ca8fdac3284666d2867e.png" group-title="Outdoor",Canal Rural
+#EXTSIZE:medium
+http://186.219.52.187/canal_rural/index.m3u8
+#EXTINF:-1 tvg-id="eja.4e7a8894860b9b22feea1908" tvg-name="Fish TV" tvg-logo="https://eja.tv/snaps/4e7a8894860b9b22feea19083362f4094b14cfe54fd449c7c923b028eb61938a.png" group-title="Outdoor",Fish TV
+#EXTSIZE:medium
+http://170.83.16.50/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="eja.1dd7333df09a9cc1260e2e6a" tvg-name="Terra Viva" tvg-logo="https://eja.tv/snaps/1dd7333df09a9cc1260e2e6a7e4b9466655ea9b4259caab64f9b9e830159a685.png" group-title="Outdoor",Terra Viva
+#EXTSIZE:medium
+http://170.83.16.50/TERRA_VIVA/index.m3u8
+#EXTINF:-1 tvg-id="eja.31533328c609caaf2f323a3b" tvg-name="Terra Viva (2)" tvg-logo="https://eja.tv/snaps/31533328c609caaf2f323a3b63ffd1458357ab97de77429d900a76c2831d1672.png" group-title="Outdoor",Terra Viva (2)
+#EXTSIZE:medium
+http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
+#EXTINF:-1 tvg-id="eja.fe1ca920197fbb10485a23aa" tvg-name="Despertar TV" tvg-logo="https://eja.tv/snaps/fe1ca920197fbb10485a23aa1c94f2e2a1e367eb052e5f1002b1ed52044d42c3.png" group-title="Religious",Despertar TV
+#EXTSIZE:medium
+https://br.conectmy.com.br/DespertarTV/index.m3u8
+#EXTINF:-1 tvg-id="eja.1a46af9bcb88cd90b3bb3b18" tvg-name="Fonte TV" tvg-logo="https://eja.tv/snaps/1a46af9bcb88cd90b3bb3b18818e70e9784d9b75e3da24d6709008e6eba83655.png" group-title="Religious",Fonte TV
+#EXTSIZE:medium
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-id="eja.12817064bb9bd5b35661bad8" tvg-name="Gospel Cartoon" tvg-logo="https://eja.tv/snaps/12817064bb9bd5b35661bad8603b16f72651888c6039538deef5ec590fa76213.png" group-title="Religious",Gospel Cartoon
+#EXTSIZE:medium
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.105f0789d8aff291aa393ca3" tvg-name="Gospel Movie TV" tvg-logo="https://eja.tv/snaps/105f0789d8aff291aa393ca3b48cf53098e7662be650ea259aa5b47a01efeff4.png" group-title="Religious",Gospel Movie TV
+#EXTSIZE:medium
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.c2ed679cbeb18e9c3c0600d2" tvg-name="IMPD TV Worldwide" tvg-logo="https://eja.tv/snaps/c2ed679cbeb18e9c3c0600d21f55042d641bbed21c4cc024f497d8b2378bd30c.png" group-title="Religious",IMPD TV Worldwide
+#EXTSIZE:medium
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="eja.6870ea0c323e8e2f45d14fb6" tvg-name="Novo Tempo" tvg-logo="https://eja.tv/snaps/6870ea0c323e8e2f45d14fb660b949ae35e52f1a06393d2cc461b8fcb85233e3.png" group-title="Religious",Novo Tempo
+#EXTSIZE:medium
+http://186.219.52.187/novo_tempo/index.m3u8
+#EXTINF:-1 tvg-id="eja.26197ad31020d892255018fd" tvg-name="Rede Gospel" tvg-logo="https://eja.tv/snaps/26197ad31020d892255018fddc276aec8603f0dd61d2fb5ce59d1354184a853c.png" group-title="Religious",Rede Gospel
+#EXTSIZE:medium
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="eja.e5faf87fa23bff8fa79f2099" tvg-name="RIT TV" tvg-logo="https://eja.tv/snaps/e5faf87fa23bff8fa79f2099f8e4f311ce3711092cebc31a8922ee00126fe894.png" group-title="Religious",RIT TV
+#EXTSIZE:medium
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="eja.e2eaf1a503f4d9b1f2c9ab07" tvg-name="RIT TV (2)" tvg-logo="https://eja.tv/snaps/e2eaf1a503f4d9b1f2c9ab0769bb319fb530554aa638e88314aadacce23e8f8b.png" group-title="Religious",RIT TV (2)
+#EXTSIZE:medium
+http://170.83.49.66:8083/RITHD/index.m3u8
+#EXTINF:-1 tvg-id="eja.3a550a7f5864d3079f30092a" tvg-name="TV Aparecida" tvg-logo="https://eja.tv/snaps/3a550a7f5864d3079f30092a4e5e0b73057d3c5cd97ca2f2a50f0099ac5c6319.png" group-title="Religious",TV Aparecida
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.1c498b779968d71bbe14c5e5" tvg-name="TV Aparecida (2)" tvg-logo="https://eja.tv/snaps/1c498b779968d71bbe14c5e5f77eb13b27fae597f0f5a268e8ac77a55a9237fa.png" group-title="Religious",TV Aparecida (2)
+#EXTSIZE:medium
+http://170.83.16.50/TV_APARECIDA/index.m3u8
+#EXTINF:-1 tvg-id="eja.78d2b7076d960af45bb22d63" tvg-name="TV Aparecida (3)" tvg-logo="https://eja.tv/snaps/78d2b7076d960af45bb22d63fa591bcf0bc6f193a30172ce4a0bcda3235936cc.png" group-title="Religious",TV Aparecida (3)
+#EXTSIZE:medium
+http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
+#EXTINF:-1 tvg-id="eja.166afa61ee7253ee59353906" tvg-name="TV Evangelizar" tvg-logo="https://eja.tv/snaps/166afa61ee7253ee59353906a44bb8263187895f57effab656d8965f18ea411f.png" group-title="Religious",TV Evangelizar
+#EXTSIZE:medium
+http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="eja.a11c11e75fbb253b10389178" tvg-name="TV Evangelizar (2)" tvg-logo="https://eja.tv/snaps/a11c11e75fbb253b103891785ffcb202332ff4971ef63ffbd69c9653e42942bc.png" group-title="Religious",TV Evangelizar (2)
+#EXTSIZE:medium
+http://186.219.52.187/tv_evangelizar/index.m3u8
+#EXTINF:-1 tvg-id="eja.b5a00c62f11ad0a0772b6f39" tvg-name="TV Padre Cicero" tvg-logo="https://eja.tv/snaps/b5a00c62f11ad0a0772b6f39c61eafdc2b39d3ac1e6d5e58b69e032ed46f33cc.png" group-title="Religious",TV Padre Cicero
+#EXTSIZE:medium
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.4b23cb0765a6d8f7d583f7fb" tvg-name="TV Pai Eterno" tvg-logo="https://eja.tv/snaps/4b23cb0765a6d8f7d583f7fb413735cdc85420bbf91f1b92539cb56b507dc743.png" group-title="Religious",TV Pai Eterno
+#EXTSIZE:medium
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.3aa3223264d35df14a028a6a" tvg-name="TV Pai Eterno (2)" tvg-logo="https://eja.tv/snaps/3aa3223264d35df14a028a6a5168b141eccb5a41b2b83378bdfc72e9f36deee0.png" group-title="Religious",TV Pai Eterno (2)
+#EXTSIZE:medium
+http://186.219.52.187/pai_eterno/index.m3u8
+#EXTINF:-1 tvg-id="eja.26f34869a8ee67dcffa62459" tvg-name="TV Terceiro Anjo" tvg-logo="https://eja.tv/snaps/26f34869a8ee67dcffa62459857d2b2e866fb1169caa40429964b091b347de69.png" group-title="Religious",TV Terceiro Anjo
+#EXTSIZE:medium
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.fbf4b0c1a6e9bb113efbc3f4" tvg-name="TV Universal" tvg-logo="https://eja.tv/snaps/fbf4b0c1a6e9bb113efbc3f4fb1f75061e42ffe2a2ec8eab03a789c074cd3341.png" group-title="Religious",TV Universal
+#EXTSIZE:medium
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.2753c87b53e5faea97d88e9a" tvg-name="Amazon Sat" tvg-logo="https://eja.tv/snaps/2753c87b53e5faea97d88e9abf8aea3342aaee134c28f8cf89562c919dd59b8d.png" group-title="Sem categoria",Amazon Sat
+#EXTSIZE:medium
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="eja.37a7aed7c676d34e58f0f7d8" tvg-name="Boas Novas" tvg-logo="https://eja.tv/snaps/37a7aed7c676d34e58f0f7d819f0f50195aaa2ddd3746d4aacdf730708d2d8b1.png" group-title="Sem categoria",Boas Novas
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.28e419ec7e2181fa439a19c6" tvg-name="Canal 25 Jundiaí" tvg-logo="https://eja.tv/snaps/28e419ec7e2181fa439a19c68ccc15a70af07fe7a96a1547bc291e1cb8ebbd31.png" group-title="Sem categoria",Canal 25 Jundiaí
+#EXTSIZE:medium
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="eja.1fdc45b91073f306a4d7615f" tvg-name="Canal do Boi" tvg-logo="https://eja.tv/snaps/1fdc45b91073f306a4d7615f8a8e2d3683502e2eaf6276025b136903ecdf1159.png" group-title="Sem categoria",Canal do Boi
+#EXTSIZE:medium
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="eja.cf1e64020df9eb78e29aae6f" tvg-name="Canal do Boi (2)" tvg-logo="https://eja.tv/snaps/cf1e64020df9eb78e29aae6ffd4d80320d45a6bb59fabf0f5386989124044b7b.png" group-title="Sem categoria",Canal do Boi (2)
+#EXTSIZE:medium
+http://186.219.52.187/canal_do_boi/index.m3u8
+#EXTINF:-1 tvg-id="eja.21b553019ae897aab1dd3a0d" tvg-name="Nova Era TV" tvg-logo="https://eja.tv/snaps/21b553019ae897aab1dd3a0d60f55dc81e0d52d2667cb0a045e6ecd475873c36.png" group-title="Sem categoria",Nova Era TV
+#EXTSIZE:medium
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-id="eja.08d6e3fcd406cbb0a02804a0" tvg-name="Play TV" tvg-logo="https://eja.tv/snaps/08d6e3fcd406cbb0a02804a0896d861543606097a61de7613a128d2ab291a8ff.png" group-title="Sem categoria",Play TV
+#EXTSIZE:medium
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="eja.de8339b635cf0bf2b37db3e0" tvg-name="RedeTV! Parana" tvg-logo="https://eja.tv/snaps/de8339b635cf0bf2b37db3e0f041d569a05195fdc8d117c53670bb1350261915.png" group-title="Sem categoria",RedeTV! Parana
+#EXTSIZE:medium
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.27675dcd97034e3a473395d8" tvg-name="SBT Nacional" tvg-logo="https://eja.tv/snaps/27675dcd97034e3a473395d8d8af98a55e2bf70016a53df03c6b894027f0e57a.png" group-title="Sem categoria",SBT Nacional
+#EXTSIZE:medium
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="eja.94bdd5952647a79a09d3e8fb" tvg-name="SBT Nacional (2)" tvg-logo="https://eja.tv/snaps/94bdd5952647a79a09d3e8fb123f44c7dcc5fa6dd8ab5c2d3338d01dc38c79f2.png" group-title="Sem categoria",SBT Nacional (2)
+#EXTSIZE:medium
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.b9a393c00653427c5224621e" tvg-name="SIC TV" tvg-logo="https://eja.tv/snaps/b9a393c00653427c5224621eb01dd8ffece157605befb6ef264ba0668867fae5.png" group-title="Sem categoria",SIC TV
+#EXTSIZE:medium
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-id="eja.7d49d426895f612538fd0aa5" tvg-name="Sony Channel" tvg-logo="https://eja.tv/snaps/7d49d426895f612538fd0aa563e3ae55da09f7083ff431188e03b6105eeec8b0.png" group-title="Sem categoria",Sony Channel
+#EXTSIZE:medium
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="eja.b0f7e2d15d85a844a3fadc80" tvg-name="TV A Critica" tvg-logo="https://eja.tv/snaps/b0f7e2d15d85a844a3fadc80b1e7e712637315b2328fd7a34d02e63b2c475a70.png" group-title="Sem categoria",TV A Critica
+#EXTSIZE:medium
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.52d795082bf2a2553ca379b1" tvg-name="TV Brasil" tvg-logo="https://eja.tv/snaps/52d795082bf2a2553ca379b1979a7389cfb10248580de8211a9a889baa8ced41.png" group-title="Sem categoria",TV Brasil
+#EXTSIZE:medium
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="eja.8e7446fddef51e53bec72763" tvg-name="TV Brasil (2)" tvg-logo="https://eja.tv/snaps/8e7446fddef51e53bec72763573b881b84fdaac97d6e960f85bf87313e12ce52.png" group-title="Sem categoria",TV Brasil (2)
+#EXTSIZE:medium
+http://170.83.49.66:8083/TVBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="eja.13c65029d2c0076656c89ac9" tvg-name="TV Brasil (3)" tvg-logo="https://eja.tv/snaps/13c65029d2c0076656c89ac999cfa719f9b8aa18bb5c53bb816eed4df92babec.png" group-title="Sem categoria",TV Brasil (3)
+#EXTSIZE:medium
+http://186.219.52.187/tv_brasil/index.m3u8
+#EXTINF:-1 tvg-id="eja.20afa828b81f09ee38fc7431" tvg-name="TV Cancao Nova" tvg-logo="https://eja.tv/snaps/20afa828b81f09ee38fc7431e4a756e02537f2a920221870868999b620cc76c4.png" group-title="Sem categoria",TV Cancao Nova
+#EXTSIZE:medium
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.7e84bdfca2cd28d4f09b0529" tvg-name="TV Cancao Nova (2)" tvg-logo="https://eja.tv/snaps/7e84bdfca2cd28d4f09b05299574b20ea23f002076f91f250d22d2a8ad262cc0.png" group-title="Sem categoria",TV Cancao Nova (2)
+#EXTSIZE:medium
+http://170.83.16.50/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="eja.f069c4e66172507b1c91bffa" tvg-name="TV Cancao Nova (3)" tvg-logo="https://eja.tv/snaps/f069c4e66172507b1c91bffa99cf08deb5dbdd376e33e1e4321d7038cb885efe.png" group-title="Sem categoria",TV Cancao Nova (3)
+#EXTSIZE:medium
+http://186.219.52.187/cancao_nova/index.m3u8
+#EXTINF:-1 tvg-id="eja.7115dcf0bda9fbb3f44a2b99" tvg-name="TV Cidade Verde Cuiaba" tvg-logo="https://eja.tv/snaps/7115dcf0bda9fbb3f44a2b9980819472b22597110805a19d338a2cec63eeab20.png" group-title="Sem categoria",TV Cidade Verde Cuiaba
+#EXTSIZE:medium
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 tvg-id="eja.0a25394ec724c5e15a30bd6d" tvg-name="TV Clube" tvg-logo="https://eja.tv/snaps/0a25394ec724c5e15a30bd6db8e7d7223f87d2dbedf17e9fb5639de737ee8148.png" group-title="Sem categoria",TV Clube
+#EXTSIZE:medium
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.65c132e243c3373dcd917d55" tvg-name="TV Cultura" tvg-logo="https://eja.tv/snaps/65c132e243c3373dcd917d55e757ec97e3750827ec37d247e39487f4abb7b25e.png" group-title="Sem categoria",TV Cultura
+#EXTSIZE:medium
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="eja.af79f391c0effb2d089b3d1d" tvg-name="TV Cultura (2)" tvg-logo="https://eja.tv/snaps/af79f391c0effb2d089b3d1d75e1113a379bec2450c12072105794a2157e51b6.png" group-title="Sem categoria",TV Cultura (2)
+#EXTSIZE:medium
+http://170.83.16.50/CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="eja.0aab09d2bb1eb4866b69a9a9" tvg-name="TV Cultura (3)" tvg-logo="https://eja.tv/snaps/0aab09d2bb1eb4866b69a9a91bc0927dfd1a7c76232e964c25652b85dbd10b34.png" group-title="Sem categoria",TV Cultura (3)
+#EXTSIZE:medium
+http://186.219.52.187/cultura/index.m3u8
+#EXTINF:-1 tvg-id="eja.0d02473e3dea53b6c08b40a9" tvg-name="TV Gazeta" tvg-logo="https://eja.tv/snaps/0d02473e3dea53b6c08b40a924a0dd7f8e86c46b92aad1eb1912f9b3e18275e9.png" group-title="Sem categoria",TV Gazeta
+#EXTSIZE:medium
+http://186.219.52.187/gazeta/index.m3u8
+#EXTINF:-1 tvg-id="eja.9edace3a72467d6c1974f082" tvg-name="TV Guará" tvg-logo="https://eja.tv/snaps/9edace3a72467d6c1974f0820a82b7d15fdff5a928b9bb708da8cfb3f3831d51.png" group-title="Sem categoria",TV Guará
+#EXTSIZE:medium
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.112cdcb019c39ac6fa17dbe4" tvg-name="TV Justica" tvg-logo="https://eja.tv/snaps/112cdcb019c39ac6fa17dbe424e54de3c0242c3e05d47a5b86760001e751ae5a.png" group-title="Sem categoria",TV Justica
+#EXTSIZE:medium
+http://170.83.16.50/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="eja.ffd5032c5f1218262e646906" tvg-name="TV Justica (2)" tvg-logo="https://eja.tv/snaps/ffd5032c5f1218262e6469068c25464ff212c3c25a0e44685f70cc4aa81545e3.png" group-title="Sem categoria",TV Justica (2)
+#EXTSIZE:medium
+http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
+#EXTINF:-1 tvg-id="eja.62cc1082f00a50785cd4e237" tvg-name="TV Justica (3)" tvg-logo="https://eja.tv/snaps/62cc1082f00a50785cd4e2372d80314f358b87a9a8500270b6ad899a6424a81f.png" group-title="Sem categoria",TV Justica (3)
+#EXTSIZE:medium
+http://186.219.52.187/tv_justica/index.m3u8
+#EXTINF:-1 tvg-id="eja.c0eb017b1725ba9f5441964c" tvg-name="TV Pantanal MS" tvg-logo="https://eja.tv/snaps/c0eb017b1725ba9f5441964ca80ea6c8765e713c3d9becc1b34c277fc0a3e8fb.png" group-title="Sem categoria",TV Pantanal MS
+#EXTSIZE:medium
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.e07c956ab9e9542486ae1660" tvg-name="TV Vila Real" tvg-logo="https://eja.tv/snaps/e07c956ab9e9542486ae1660d1789cb83a270695a6edb634a12fdc2cab4a077e.png" group-title="Sem categoria",TV Vila Real
+#EXTSIZE:medium
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.7776364d3fd427df87b68ee2" tvg-name="TVE RS (2)" tvg-logo="https://eja.tv/snaps/7776364d3fd427df87b68ee24144e92f048e70e6cd08011b3753289aaeb74244.png" group-title="Sem categoria",TVE RS (2)
+#EXTSIZE:medium
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.8115eaf1d20ae07b86896f37" tvg-name="TV Series 1 As Panteras" tvg-logo="https://eja.tv/snaps/8115eaf1d20ae07b86896f37b34fadcac877c1a745a322f19bfe27ddc7b4a2f5.png" group-title="Series",TV Series 1 As Panteras
+#EXTSIZE:medium
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="eja.641fcada66557c8231212b9c" tvg-name="Band Sports" tvg-logo="https://eja.tv/snaps/641fcada66557c8231212b9c329f6506403625ebb5c7db16e7dea203355ff417.png" group-title="Sports",Band Sports
+#EXTSIZE:medium
+http://170.83.16.50/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="eja.735460eb80bf663450258ef7" tvg-name="ESPN" tvg-logo="https://eja.tv/snaps/735460eb80bf663450258ef7290b7436303d4f6e33c93e43225949976a7809e6.png" group-title="Sports",ESPN
+#EXTSIZE:medium
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="eja.6dc0bd805e76095a49fa84cb" tvg-name="ESPN 3" tvg-logo="https://eja.tv/snaps/6dc0bd805e76095a49fa84cb84fd51906767207a38a43faf06f36d6d50117412.png" group-title="Sports",ESPN 3
+#EXTSIZE:medium
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="eja.adeff3e740e2cb519950c078" tvg-name="ESPN 4" tvg-logo="https://eja.tv/snaps/adeff3e740e2cb519950c0787ce4f39bf76dbe854097681f44a7c27d09d6c97a.png" group-title="Sports",ESPN 4
+#EXTSIZE:medium
+http://181.78.197.59:8000/play/a07n/index.m3u8
