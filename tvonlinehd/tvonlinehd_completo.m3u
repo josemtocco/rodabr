@@ -1,84 +1,84 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bandsports" tvg-name="band sports" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/bandsports.png" group-title="Esportes" content-type="video",Band Sports
-https://tody.s25-cloudfront-net.lat/tody/bandsports.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/bandsports.m3u8
 #EXTINF:-1 tvg-id="cazetv1" tvg-name="cazetv 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/caze1.png" group-title="Esportes" content-type="video",CazeTV 1
-https://tody.s25-cloudfront-net.lat/tody/caze1.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/caze1.m3u8
 #EXTINF:-1 tvg-id="cazetv2" tvg-name="cazetv 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/caze2.png" group-title="Esportes" content-type="video",CazeTV 2
-https://tody.s25-cloudfront-net.lat/tody/caze2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/caze2.m3u8
 #EXTINF:-1 tvg-id="cazetv3" tvg-name="cazetv 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/caze3.png" group-title="Esportes" content-type="video",CazeTV 3
-https://tody.s25-cloudfront-net.lat/tody/caze3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/caze3.m3u8
 #EXTINF:-1 tvg-id="combate" tvg-name="combate" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/combate.png" group-title="Esportes" content-type="video",Combate
-https://tody.s25-cloudfront-net.lat/tody/combate.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/combate.m3u8
 #EXTINF:-1 tvg-id="espn" tvg-name="espn" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn.png" group-title="Esportes" content-type="video",Espn
-https://tody.s25-cloudfront-net.lat/tody/espn.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/espn.m3u8
 #EXTINF:-1 tvg-id="espn2" tvg-name="espn 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn2.png" group-title="Esportes" content-type="video",Espn 2
-https://tody.s25-cloudfront-net.lat/tody/espn2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/espn2.m3u8
 #EXTINF:-1 tvg-id="espn3" tvg-name="espn 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn3.png" group-title="Esportes" content-type="video",Espn 3
-https://tody.s25-cloudfront-net.lat/tody/espn3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/espn3.m3u8
 #EXTINF:-1 tvg-id="espn4" tvg-name="espn 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn4.png" group-title="Esportes" content-type="video",Espn 4
-https://tody.s25-cloudfront-net.lat/tody/espn4.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/espn4.m3u8
 #EXTINF:-1 tvg-id="espn5" tvg-name="espn 5" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn5.png" group-title="Esportes" content-type="video",Espn 5
-https://tody.s25-cloudfront-net.lat/tody/espn5.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/espn5.m3u8
 #EXTINF:-1 tvg-id="espn6" tvg-name="espn 6" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/espn6.png" group-title="Esportes" content-type="video",Espn 6
-https://tody.s25-cloudfront-net.lat/tody/espn6.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/espn6.m3u8
 #EXTINF:-1 tvg-id="xsports" tvg-name="xsports" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/xsports.png" group-title="Esportes" content-type="video",XSports
-https://tody.s25-cloudfront-net.lat/tody/xsports.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/xsports.m3u8
 #EXTINF:-1 tvg-id="premiere1" tvg-name="premiere 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere.png" group-title="Esportes" content-type="video",Premiere 1
-https://tody.s25-cloudfront-net.lat/tody/premiere.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/premiere.m3u8
 #EXTINF:-1 tvg-id="premiere2" tvg-name="premiere 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere2.png" group-title="Esportes" content-type="video",Premiere 2
-https://tody.s25-cloudfront-net.lat/tody/premiere2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/premiere2.m3u8
 #EXTINF:-1 tvg-id="premiere3" tvg-name="premiere 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere3.png" group-title="Esportes" content-type="video",Premiere 3
-https://tody.s25-cloudfront-net.lat/tody/premiere3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/premiere3.m3u8
 #EXTINF:-1 tvg-id="premiere4" tvg-name="premiere 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere4.png" group-title="Esportes" content-type="video",Premiere 4
-https://tody.s25-cloudfront-net.lat/tody/premiere4.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/premiere4.m3u8
 #EXTINF:-1 tvg-id="premiere5" tvg-name="premiere 5" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere5.png" group-title="Esportes" content-type="video",Premiere 5
-https://tody.s25-cloudfront-net.lat/tody/premiere5.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/premiere5.m3u8
 #EXTINF:-1 tvg-id="premiere6" tvg-name="premiere 6" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere6.png" group-title="Esportes" content-type="video",Premiere 6
-https://tody.s25-cloudfront-net.lat/tody/premiere6.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/premiere6.m3u8
 #EXTINF:-1 tvg-id="premiere7" tvg-name="premiere 7" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere7.png" group-title="Esportes" content-type="video",Premiere 7
-https://tody.s25-cloudfront-net.lat/tody/premiere7.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/premiere7.m3u8
 #EXTINF:-1 tvg-id="premiere8" tvg-name="premiere 8" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/premiere8.png" group-title="Esportes" content-type="video",Premiere 8
-https://tody.s25-cloudfront-net.lat/tody/premiere8.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/premiere8.m3u8
 #EXTINF:-1 tvg-id="ptabola" tvg-name="pt - a bola" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_abola.png" group-title="Esportes" content-type="video",PT - A Bola
-https://tody.s25-cloudfront-net.lat/tody/pt_abola.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_abola.m3u8
 #EXTINF:-1 tvg-id="pteleven1" tvg-name="pt - eleven 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_eleven1.png" group-title="Esportes" content-type="video",PT - Eleven 1
-https://tody.s25-cloudfront-net.lat/tody/pt_eleven1.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_eleven1.m3u8
 #EXTINF:-1 tvg-id="pteleven2" tvg-name="pt - eleven 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_eleven2.png" group-title="Esportes" content-type="video",PT - Eleven 2
-https://tody.s25-cloudfront-net.lat/tody/pt_eleven2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_eleven2.m3u8
 #EXTINF:-1 tvg-id="pteleven3" tvg-name="pt - eleven 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_eleven3.png" group-title="Esportes" content-type="video",PT - Eleven 3
-https://tody.s25-cloudfront-net.lat/tody/pt_eleven3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_eleven3.m3u8
 #EXTINF:-1 tvg-id="ptsporttv1" tvg-name="pt - sporttv 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv1.png" group-title="Esportes" content-type="video",PT - Sporttv 1
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv1.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_sportv1.m3u8
 #EXTINF:-1 tvg-id="ptsporttv2" tvg-name="pt - sporttv 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv2.png" group-title="Esportes" content-type="video",PT - Sporttv 2
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_sportv2.m3u8
 #EXTINF:-1 tvg-id="ptsporttv3" tvg-name="pt - sporttv 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv3.png" group-title="Esportes" content-type="video",PT - Sporttv 3
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_sportv3.m3u8
 #EXTINF:-1 tvg-id="ptsporttv4" tvg-name="pt - sporttv 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv4.png" group-title="Esportes" content-type="video",PT - Sporttv 4
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv4.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_sportv4.m3u8
 #EXTINF:-1 tvg-id="ptsporttv5" tvg-name="pt - sporttv 5" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv5.png" group-title="Esportes" content-type="video",PT - Sporttv 5
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv5.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_sportv5.m3u8
 #EXTINF:-1 tvg-id="ptsporttv6" tvg-name="pt - sporttv 6" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv6.png" group-title="Esportes" content-type="video",PT - Sporttv 6
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv6.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_sportv6.m3u8
 #EXTINF:-1 tvg-id="ptsporttv7" tvg-name="pt - sporttv 7" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/pt_sportv7.png" group-title="Esportes" content-type="video",PT - Sporttv 7
-https://tody.s25-cloudfront-net.lat/tody/pt_sportv7.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/pt_sportv7.m3u8
 #EXTINF:-1 tvg-id="sportv" tvg-name="sportv" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportv.png" group-title="Esportes" content-type="video",Sportv
-https://tody.s25-cloudfront-net.lat/tody/sportv.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sportv.m3u8
 #EXTINF:-1 tvg-id="sportv2" tvg-name="sportv 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportv2.png" group-title="Esportes" content-type="video",Sportv 2
-https://tody.s25-cloudfront-net.lat/tody/sportv2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sportv2.m3u8
 #EXTINF:-1 tvg-id="sportv3" tvg-name="sportv 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportv3.png" group-title="Esportes" content-type="video",Sportv 3
-https://tody.s25-cloudfront-net.lat/tody/sportv3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sportv3.m3u8
 #EXTINF:-1 tvg-id="sportv4" tvg-name="sportv 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportv4.png" group-title="Esportes" content-type="video",Sportv 4
-https://tody.s25-cloudfront-net.lat/tody/sportv4.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sportv4.m3u8
 #EXTINF:-1 tvg-id="sportynet" tvg-name="sportynet" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportynet.png" group-title="Esportes" content-type="video",SportyNet
-https://tody.s25-cloudfront-net.lat/tody/sportynet.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sportynet.m3u8
 #EXTINF:-1 tvg-id="sportynet1" tvg-name="sportynet+ 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportynetplus1.png" group-title="Esportes" content-type="video",SportyNet+ 1
-https://tody.s25-cloudfront-net.lat/tody/sportynetplus1.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sportynetplus1.m3u8
 #EXTINF:-1 tvg-id="sportynet2" tvg-name="sportynet+ 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportynetplus2.png" group-title="Esportes" content-type="video",SportyNet+ 2
-https://tody.s25-cloudfront-net.lat/tody/sportynetplus2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sportynetplus2.m3u8
 #EXTINF:-1 tvg-id="sportynet3" tvg-name="sportynet+ 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sportynetplus3.png" group-title="Esportes" content-type="video",SportyNet+ 3
-https://tody.s25-cloudfront-net.lat/tody/sportynetplus3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sportynetplus3.m3u8
 #EXTINF:-1 tvg-id="ufcfightpass" tvg-name="ufc fight pass" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/ufcfightpass.png" group-title="Esportes" content-type="video",UFC Fight Pass
-https://tody.s25-cloudfront-net.lat/tody/ufcfightpass.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/ufcfightpass.m3u8
 #EXTINF:-1 tvg-id="rs-sports-news" tvg-name="rs sports news ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/a30bad58-e850-4d60-a1a8-4f110eec750a/rs_sports_news_1_150x150.png" group-title="Esportes" content-type="video",RS Sports News Ao Vivo
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 tvg-id="rs-sports-news-2" tvg-name="rs sports news 2 ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/3ea656cb-b43f-4230-b204-d7a94fa56d50/rs_sports_news_2_150x150.png" group-title="Esportes" content-type="video",RS Sports News 2 Ao Vivo
@@ -126,67 +126,67 @@ https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
 #EXTINF:-1 tvg-id="rs-sports-4" tvg-name="rs sports 4" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767985985.png" group-title="Esportes" content-type="video",RS SPORTS 4
 https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
 #EXTINF:-1 tvg-id="aparecida" tvg-name="aparecida" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/aparecida.png" group-title="Abertos" content-type="video",Aparecida
-https://tody.s25-cloudfront-net.lat/tody/aparecida.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/aparecida.m3u8
 #EXTINF:-1 tvg-id="bandrj" tvg-name="band rj" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/bandrj.png" group-title="Abertos" content-type="video",Band RJ
-https://tody.s25-cloudfront-net.lat/tody/bandrj.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/bandrj.m3u8
 #EXTINF:-1 tvg-id="bandsp" tvg-name="band sp" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/bandsp.png" group-title="Abertos" content-type="video",Band SP
-https://tody.s25-cloudfront-net.lat/tody/bandsp.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/bandsp.m3u8
 #EXTINF:-1 tvg-id="cultura" tvg-name="cultura" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cultura.png" group-title="Abertos" content-type="video",Cultura
-https://tody.s25-cloudfront-net.lat/tody/cultura.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/cultura.m3u8
 #EXTINF:-1 tvg-id="globoam" tvg-name="globo am" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globoam.png" group-title="Abertos" content-type="video",Globo AM
-https://tody.s25-cloudfront-net.lat/tody/globoam.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globoam.m3u8
 #EXTINF:-1 tvg-id="globomg" tvg-name="globo mg" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globomg.png" group-title="Abertos" content-type="video",Globo MG
-https://tody.s25-cloudfront-net.lat/tody/globomg.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globomg.m3u8
 #EXTINF:-1 tvg-id="globoce" tvg-name="globo ce" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globoce.png" group-title="Abertos" content-type="video",Globo CE
-https://tody.s25-cloudfront-net.lat/tody/globoce.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globoce.m3u8
 #EXTINF:-1 tvg-id="globoes" tvg-name="globo es" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globoes.png" group-title="Abertos" content-type="video",Globo ES
-https://tody.s25-cloudfront-net.lat/tody/globoes.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globoes.m3u8
 #EXTINF:-1 tvg-id="globope" tvg-name="globo pe" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globope.png" group-title="Abertos" content-type="video",Globo PE
-https://tody.s25-cloudfront-net.lat/tody/globope.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globope.m3u8
 #EXTINF:-1 tvg-id="globodf" tvg-name="globo df" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globodf.png" group-title="Abertos" content-type="video",Globo DF
-https://tody.s25-cloudfront-net.lat/tody/globodf.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globodf.m3u8
 #EXTINF:-1 tvg-id="globoespritosanto" tvg-name="globo espírito santo" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globoes.png" group-title="Abertos" content-type="video",Globo Espírito Santo
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/globoes/index.m3u8
 #EXTINF:-1 tvg-id="globogo" tvg-name="globo go" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globogo.png" group-title="Abertos" content-type="video",Globo GO
-https://tody.s25-cloudfront-net.lat/tody/globogo.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globogo.m3u8
 #EXTINF:-1 tvg-id="globominas" tvg-name="globo minas" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globomg.png" group-title="Abertos" content-type="video",Globo Minas
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/globomg/index.m3u8
 #EXTINF:-1 tvg-id="globopb" tvg-name="globo pb" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globopb.png" group-title="Abertos" content-type="video",Globo PB
-https://tody.s25-cloudfront-net.lat/tody/globopb.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globopb.m3u8
 #EXTINF:-1 tvg-id="globosp" tvg-name="globo sp" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globosp.png" group-title="Abertos" content-type="video",Globo SP
-https://tody.s25-cloudfront-net.lat/tody/globosp.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globosp.m3u8
 #EXTINF:-1 tvg-id="globoportoalegre" tvg-name="globo porto alegre" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globors.png" group-title="Abertos" content-type="video",Globo Porto Alegre
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/globors/index.m3u8
 #EXTINF:-1 tvg-id="globorio" tvg-name="globo rio" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globorj.png" group-title="Abertos" content-type="video",Globo Rio
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/globorj/index.m3u8
 #EXTINF:-1 tvg-id="globorj" tvg-name="globo rj" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globorj.png" group-title="Abertos" content-type="video",Globo RJ
-https://tody.s25-cloudfront-net.lat/tody/globorj.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globorj.m3u8
 #EXTINF:-1 tvg-id="globors" tvg-name="globo rs" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globors.png" group-title="Abertos" content-type="video",Globo RS
-https://tody.s25-cloudfront-net.lat/tody/globors.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globors.m3u8
 #EXTINF:-1 tvg-id="globosopaulo" tvg-name="globo são paulo" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globosp.png" group-title="Abertos" content-type="video",Globo São Paulo
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/globosp/index.m3u8
 #EXTINF:-1 tvg-id="tvpaieterno" tvg-name="tv pai eterno" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tvpaieterno.png" group-title="Abertos" content-type="video",TV Pai Eterno
-https://tody.s25-cloudfront-net.lat/tody/tvpaieterno.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/tvpaieterno.m3u8
 #EXTINF:-1 tvg-id="recordgo" tvg-name="record go" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordgo.png" group-title="Abertos" content-type="video",Record GO
-https://tody.s25-cloudfront-net.lat/tody/recordgo.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/recordgo.m3u8
 #EXTINF:-1 tvg-id="recordmg" tvg-name="record mg" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordmg.png" group-title="Abertos" content-type="video",Record MG
-https://tody.s25-cloudfront-net.lat/tody/recordmg.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/recordmg.m3u8
 #EXTINF:-1 tvg-id="recordminas" tvg-name="record minas" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordmg.png" group-title="Abertos" content-type="video",Record Minas
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/recordmg/index.m3u8
 #EXTINF:-1 tvg-id="recordrio" tvg-name="record rio" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordrj.png" group-title="Abertos" content-type="video",Record Rio
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/recordrj/index.m3u8
 #EXTINF:-1 tvg-id="recordrj" tvg-name="record rj" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordrj.png" group-title="Abertos" content-type="video",Record RJ
-https://tody.s25-cloudfront-net.lat/tody/recordrj.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/recordrj.m3u8
 #EXTINF:-1 tvg-id="recordsp" tvg-name="record sp" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordsp.png" group-title="Abertos" content-type="video",Record SP
-https://tody.s25-cloudfront-net.lat/tody/recordsp.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/recordsp.m3u8
 #EXTINF:-1 tvg-id="recordsopaulo" tvg-name="record são paulo" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/recordsp.png" group-title="Abertos" content-type="video",Record São Paulo
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/recordsp/index.m3u8
 #EXTINF:-1 tvg-id="redevida" tvg-name="rede vida" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/redevida.png" group-title="Abertos" content-type="video",Rede Vida
-https://tody.s25-cloudfront-net.lat/tody/redevida.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/redevida.m3u8
 #EXTINF:-1 tvg-id="sbtrj" tvg-name="sbt rj" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sbtrj.png" group-title="Abertos" content-type="video",SBT RJ
-https://tody.s25-cloudfront-net.lat/tody/sbtrj.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sbtrj.m3u8
 #EXTINF:-1 tvg-id="sbtsp" tvg-name="sbt sp" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sbtsp.png" group-title="Abertos" content-type="video",SBT SP
-https://tody.s25-cloudfront-net.lat/tody/sbtsp.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sbtsp.m3u8
 #EXTINF:-1 tvg-id="sbtsopaulo" tvg-name="sbt são paulo" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sbtsp.png" group-title="Abertos" content-type="video",SBT São Paulo
 https://d3-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/sbtsp/index.m3u8
 #EXTINF:-1 tvg-id="band" tvg-name="band  ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/4c0a3c36-894f-457a-8a6d-28c8c2fe5699/band_rs_150x150.jpg" group-title="Abertos" content-type="video",Band  Ao Vivo
@@ -308,11 +308,11 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 #EXTINF:-1 tvg-id="adbtv" tvg-name="adbtv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad3c03d69d0f5d408f5839bed261948f.webp" group-title="Abertos" content-type="video",ADBTV
 https://live.wayone.cloud/adbtv/adbtv/chunklist_w250830643.m3u8
 #EXTINF:-1 tvg-id="bandnews" tvg-name="band news" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/bandnews.png" group-title="Notícias" content-type="video",Band News
-https://tody.s25-cloudfront-net.lat/tody/bandnews.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/bandnews.m3u8
 #EXTINF:-1 tvg-id="cnnbrasil" tvg-name="cnn brasil" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cnnbrasil.png" group-title="Notícias" content-type="video",CNN Brasil
-https://tody.s25-cloudfront-net.lat/tody/cnnbrasil.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/cnnbrasil.m3u8
 #EXTINF:-1 tvg-id="globonews" tvg-name="globo news" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/globonews.png" group-title="Notícias" content-type="video",Globo News
-https://tody.s25-cloudfront-net.lat/tody/globonews.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/globonews.m3u8
 #EXTINF:-1 tvg-id="sbtnews" tvg-name="sbt news" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/c60518f4-9b18-419f-afb8-3269d1a8a693/sbt_news_150x150.png" group-title="Notícias" content-type="video",SBT News
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="jovem-pan-news" tvg-name="tv jovem pan news ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/9f0164ff-89a8-4364-a2c4-49ba6bd711ff/jovem_pan_news_150x150.png" group-title="Notícias" content-type="video",TV Jovem Pan News Ao Vivo
@@ -360,83 +360,83 @@ https://srv3.zcast.com.br/comunicacao7839/comunicacao7839/playlist.m3u8
 #EXTINF:-1 tvg-id="onda-1-tv" tvg-name="onda 1 tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_542_1786724924.png" group-title="Notícias" content-type="video",ONDA 1 TV
 https://stmv7.voxtvhd.com.br/celso6243/celso6243/playlist.m3u8
 #EXTINF:-1 tvg-id="amc" tvg-name="amc" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/amc.png" group-title="Filmes e Séries" content-type="video",AMC
-https://tody.s25-cloudfront-net.lat/tody/amc.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/amc.m3u8
 #EXTINF:-1 tvg-id="axn" tvg-name="axn" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/axn.png" group-title="Filmes e Séries" content-type="video",AXN
-https://tody.s25-cloudfront-net.lat/tody/axn.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/axn.m3u8
 #EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cinemax.png" group-title="Filmes e Séries" content-type="video",Cinemax
-https://tody.s25-cloudfront-net.lat/tody/cinemax.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/cinemax.m3u8
 #EXTINF:-1 tvg-id="disneyplus1" tvg-name="disney plus 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/disneyplus1.png" group-title="Filmes e Séries" content-type="video",Disney Plus 1
-https://tody.s25-cloudfront-net.lat/tody/disneyplus1.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/disneyplus1.m3u8
 #EXTINF:-1 tvg-id="disneyplus2" tvg-name="disney plus 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/disneyplus2.png" group-title="Filmes e Séries" content-type="video",Disney Plus 2
-https://tody.s25-cloudfront-net.lat/tody/disneyplus2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/disneyplus2.m3u8
 #EXTINF:-1 tvg-id="disneyplus3" tvg-name="disney plus 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/disneyplus3.png" group-title="Filmes e Séries" content-type="video",Disney Plus 3
-https://tody.s25-cloudfront-net.lat/tody/disneyplus3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/disneyplus3.m3u8
 #EXTINF:-1 tvg-id="hbo" tvg-name="hbo" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbo.png" group-title="Filmes e Séries" content-type="video",HBO
-https://tody.s25-cloudfront-net.lat/tody/hbo.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/hbo.m3u8
 #EXTINF:-1 tvg-id="hbo2" tvg-name="hbo 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbo2.png" group-title="Filmes e Séries" content-type="video",HBO 2
-https://tody.s25-cloudfront-net.lat/tody/hbo2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/hbo2.m3u8
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="hbo family" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbofamily.png" group-title="Filmes e Séries" content-type="video",HBO Family
-https://tody.s25-cloudfront-net.lat/tody/hbofamily.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/hbofamily.m3u8
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="hbo mundi" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbomundi.png" group-title="Filmes e Séries" content-type="video",HBO Mundi
-https://tody.s25-cloudfront-net.lat/tody/hbomundi.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/hbomundi.m3u8
 #EXTINF:-1 tvg-id="hboplus" tvg-name="hbo plus" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hboplus.png" group-title="Filmes e Séries" content-type="video",HBO Plus
-https://tody.s25-cloudfront-net.lat/tody/hboplus.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/hboplus.m3u8
 #EXTINF:-1 tvg-id="hbopop" tvg-name="hbo pop" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hbopop.png" group-title="Filmes e Séries" content-type="video",HBO POP
-https://tody.s25-cloudfront-net.lat/tody/hbopop.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/hbopop.m3u8
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="hbo xtreme" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hboxtreme.png" group-title="Filmes e Séries" content-type="video",HBO Xtreme
-https://tody.s25-cloudfront-net.lat/tody/hboxtreme.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/hboxtreme.m3u8
 #EXTINF:-1 tvg-id="max1" tvg-name="max - 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/max1.png" group-title="Filmes e Séries" content-type="video",Max - 1
-https://tody.s25-cloudfront-net.lat/tody/max1.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/max1.m3u8
 #EXTINF:-1 tvg-id="max2" tvg-name="max - 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/max2.png" group-title="Filmes e Séries" content-type="video",Max - 2
-https://tody.s25-cloudfront-net.lat/tody/max2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/max2.m3u8
 #EXTINF:-1 tvg-id="max3" tvg-name="max - 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/max3.png" group-title="Filmes e Séries" content-type="video",Max - 3
-https://tody.s25-cloudfront-net.lat/tody/max3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/max3.m3u8
 #EXTINF:-1 tvg-id="megapix" tvg-name="megapix" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/megapix.png" group-title="Filmes e Séries" content-type="video",Megapix
-https://tody.s25-cloudfront-net.lat/tody/megapix.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/megapix.m3u8
 #EXTINF:-1 tvg-id="mtv" tvg-name="mtv" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/mtv.png" group-title="Filmes e Séries" content-type="video",MTV
-https://tody.s25-cloudfront-net.lat/tody/mtv.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/mtv.m3u8
 #EXTINF:-1 tvg-id="paramount" tvg-name="paramount +" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/paramountplus.png" group-title="Filmes e Séries" content-type="video",Paramount +
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/paramountplus/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus" tvg-name="paramount plus" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/paramountplus.png" group-title="Filmes e Séries" content-type="video",Paramount Plus
-https://tody.s25-cloudfront-net.lat/tody/paramountplus.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/paramountplus.m3u8
 #EXTINF:-1 tvg-id="paramountplus2" tvg-name="paramount plus 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/paramountplus2.png" group-title="Filmes e Séries" content-type="video",Paramount Plus 2
-https://tody.s25-cloudfront-net.lat/tody/paramountplus2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/paramountplus2.m3u8
 #EXTINF:-1 tvg-id="primevideo" tvg-name="prime video" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/primevideo.png" group-title="Filmes e Séries" content-type="video",Prime Video
-https://tody.s25-cloudfront-net.lat/tody/primevideo.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/primevideo.m3u8
 #EXTINF:-1 tvg-id="primevideo2" tvg-name="prime video 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/primevideo2.png" group-title="Filmes e Séries" content-type="video",Prime Video 2
-https://tody.s25-cloudfront-net.lat/tody/primevideo2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/primevideo2.m3u8
 #EXTINF:-1 tvg-id="primevideo3" tvg-name="prime video 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/primevideo3.png" group-title="Filmes e Séries" content-type="video",Prime Video 3
-https://tody.s25-cloudfront-net.lat/tody/primevideo3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/primevideo3.m3u8
 #EXTINF:-1 tvg-id="primevideo4" tvg-name="prime video 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/primevideo4.png" group-title="Filmes e Séries" content-type="video",Prime Video 4
-https://tody.s25-cloudfront-net.lat/tody/primevideo4.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/primevideo4.m3u8
 #EXTINF:-1 tvg-id="sonychannel" tvg-name="sony channel" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/sonychannel.png" group-title="Filmes e Séries" content-type="video",Sony Channel
-https://tody.s25-cloudfront-net.lat/tody/sonychannel.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/sonychannel.m3u8
 #EXTINF:-1 tvg-id="space" tvg-name="space" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/space.png" group-title="Filmes e Séries" content-type="video",Space
-https://tody.s25-cloudfront-net.lat/tody/space.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/space.m3u8
 #EXTINF:-1 tvg-id="starchannel" tvg-name="star channel" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/starchannel.png" group-title="Filmes e Séries" content-type="video",Star Channel
-https://tody.s25-cloudfront-net.lat/tody/starchannel.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/starchannel.m3u8
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="studio universal" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/studiouniversal.png" group-title="Filmes e Séries" content-type="video",Studio Universal
-https://tody.s25-cloudfront-net.lat/tody/studiouniversal.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/studiouniversal.m3u8
 #EXTINF:-1 tvg-id="tcm" tvg-name="tcm" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tcm.png" group-title="Filmes e Séries" content-type="video",TCM
-https://tody.s25-cloudfront-net.lat/tody/tcm.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/tcm.m3u8
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="telecine action" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecineaction.png" group-title="Filmes e Séries" content-type="video",Telecine Action
-https://tody.s25-cloudfront-net.lat/tody/telecineaction.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/telecineaction.m3u8
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="telecine cult" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinecult.png" group-title="Filmes e Séries" content-type="video",Telecine Cult
-https://tody.s25-cloudfront-net.lat/tody/telecinecult.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/telecinecult.m3u8
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="telecine fun" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinefun.png" group-title="Filmes e Séries" content-type="video",Telecine Fun
-https://tody.s25-cloudfront-net.lat/tody/telecinefun.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/telecinefun.m3u8
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="telecine pipoca" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinepipoca.png" group-title="Filmes e Séries" content-type="video",Telecine Pipoca
-https://tody.s25-cloudfront-net.lat/tody/telecinepipoca.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/telecinepipoca.m3u8
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="telecine premium" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinepremium.png" group-title="Filmes e Séries" content-type="video",Telecine Premium
-https://tody.s25-cloudfront-net.lat/tody/telecinepremium.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/telecinepremium.m3u8
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="telecine touch" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/telecinetouch.png" group-title="Filmes e Séries" content-type="video",Telecine Touch
-https://tody.s25-cloudfront-net.lat/tody/telecinetouch.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/telecinetouch.m3u8
 #EXTINF:-1 tvg-id="universal" tvg-name="universal" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/universaltv.png" group-title="Filmes e Séries" content-type="video",Universal
-https://tody.s25-cloudfront-net.lat/tody/universaltv.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/universaltv.m3u8
 #EXTINF:-1 tvg-id="universaltv" tvg-name="universal tv" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/universaltv.png" group-title="Filmes e Séries" content-type="video",Universal TV
 https://d3-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/universaltv/index.m3u8
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="warnerchannel" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/warnerchannel.png" group-title="Filmes e Séries" content-type="video",Warnerchannel
-https://tody.s25-cloudfront-net.lat/tody/warnerchannel.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/warnerchannel.m3u8
 #EXTINF:-1 tvg-id="tvi-ficcao" tvg-name="tvi ficção" tvg-logo="https://televisao.tv/images/tvi-ficcao.webp" group-title="Filmes e Séries" content-type="video",TVI Ficção
 https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2972540692&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiAxMjozMDowIEFNJmhhc2hfdmFsdWU9YzlmbEgwMTRYZ2J4ay9ZYTZRaXlWZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFiNGUxYTk0LTNmYzEtNDEyNS05OWQxLTU3NDhhMjRiOTY0Zg==
 #EXTINF:-1 tvg-id="runtime-acao" tvg-name="runtime ação ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/a68d006e-a915-463a-86e1-45e49ef8c33f/runtime_acao_150x150.jpg" group-title="Filmes e Séries" content-type="video",Runtime Ação Ao Vivo
@@ -532,35 +532,35 @@ https://tv.rbti.tv.br/rbti2/index.m3u8
 #EXTINF:-1 tvg-id="nois-paulistas" tvg-name="nois paulistas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_562_1788317334.png" group-title="Filmes e Séries" content-type="video",Nois Paulistas
 https://stmv3.voxtvhd.com.br/tvrtv/tvrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="afazenda181" tvg-name="a fazenda 18 - 1" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda.png" group-title="Variedades" content-type="video",A Fazenda 18 - 1
-https://tody.s25-cloudfront-net.lat/tody/afazenda.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/afazenda.m3u8
 #EXTINF:-1 tvg-id="afazenda182" tvg-name="a fazenda 18 - 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda2.png" group-title="Variedades" content-type="video",A Fazenda 18 - 2
-https://tody.s25-cloudfront-net.lat/tody/afazenda2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/afazenda2.m3u8
 #EXTINF:-1 tvg-id="afazenda183" tvg-name="a fazenda 18 - 3" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda3.png" group-title="Variedades" content-type="video",A Fazenda 18 - 3
-https://tody.s25-cloudfront-net.lat/tody/afazenda3.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/afazenda3.m3u8
 #EXTINF:-1 tvg-id="afazenda184" tvg-name="a fazenda 18 - 4" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda4.png" group-title="Variedades" content-type="video",A Fazenda 18 - 4
-https://tody.s25-cloudfront-net.lat/tody/afazenda4.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/afazenda4.m3u8
 #EXTINF:-1 tvg-id="afazenda185" tvg-name="a fazenda 18 - 5" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/afazenda5.png" group-title="Variedades" content-type="video",A Fazenda 18 - 5
-https://tody.s25-cloudfront-net.lat/tody/afazenda5.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/afazenda5.m3u8
 #EXTINF:-1 tvg-id="ae" tvg-name="ae" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/ae.png" group-title="Variedades" content-type="video",AE
-https://tody.s25-cloudfront-net.lat/tody/ae.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/ae.m3u8
 #EXTINF:-1 tvg-id="canu00e7u00e3onova" tvg-name="canção nova" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cancaonova.png" group-title="Variedades" content-type="video",Canção Nova
-https://tody.s25-cloudfront-net.lat/tody/cancaonova.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/cancaonova.m3u8
 #EXTINF:-1 tvg-id="canonova" tvg-name="canção nova" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cancaonova.png" group-title="Variedades" content-type="video",Canção Nova
 https://d2-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/cancaonova/index.m3u8
 #EXTINF:-1 tvg-id="gnt" tvg-name="gnt" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/gnt.png" group-title="Variedades" content-type="video",GNT
-https://tody.s25-cloudfront-net.lat/tody/gnt.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/gnt.m3u8
 #EXTINF:-1 tvg-id="masterchef" tvg-name="master chef" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/masterchef.png" group-title="Variedades" content-type="video",Master chef
-https://tody.s25-cloudfront-net.lat/tody/masterchef.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/masterchef.m3u8
 #EXTINF:-1 tvg-id="multishow" tvg-name="multishow" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/multishow.png" group-title="Variedades" content-type="video",Multishow
-https://tody.s25-cloudfront-net.lat/tody/multishow.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/multishow.m3u8
 #EXTINF:-1 tvg-id="off" tvg-name="off" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/off.png" group-title="Variedades" content-type="video",OFF
-https://tody.s25-cloudfront-net.lat/tody/off.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/off.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="tnt" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tnt.png" group-title="Variedades" content-type="video",TNT
-https://tody.s25-cloudfront-net.lat/tody/tnt.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/tnt.m3u8
 #EXTINF:-1 tvg-id="tntnovelas" tvg-name="tnt novelas" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tntnovelas.png" group-title="Variedades" content-type="video",TNT Novelas
-https://tody.s25-cloudfront-net.lat/tody/tntnovelas.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/tntnovelas.m3u8
 #EXTINF:-1 tvg-id="tntseries" tvg-name="tnt series" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tntseries.png" group-title="Variedades" content-type="video",TNT Series
-https://tody.s25-cloudfront-net.lat/tody/tntseries.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/tntseries.m3u8
 #EXTINF:-1 tvg-id="spark-tv-luz-e-amor" tvg-name="spark tv luz e amor" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxzeKByxVWuVp1FVsV_iGtrc4xnGjzxQBt9IDCngPm-vyCD4ZnTB-f1dFyU6gFDBv8MragWmiWPzEemx8Zc-dL17lagllp2ulD1HsypzIAPioakMK4anJwV5BgX328I2je6gUT9DyntIB02h4iY5T0_lVM6tfAM8zQDlKHWRR6JXTge5PJHYDIHlKaB0g/s200/SPARK%20TV%20LUZ%20E%20AMOR.webp" group-title="Variedades" content-type="video",SPARK TV LUZ E AMOR
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="master-chef-brasil" tvg-name="master chef brasil" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/a95622ab-c054-40e0-9dbe-69e5beda8164/master_chefe_150x150.png" group-title="Variedades" content-type="video",Master Chef Brasil
@@ -960,27 +960,27 @@ https://stmv7.voxtvhd.com.br/jxstv/jxstv/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-itapetinga-rio" tvg-name="tv itapetinga rio" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_96_1786677615.png" group-title="Variedades" content-type="video",TV Itapetinga rio
 https://stmv4.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8
 #EXTINF:-1 tvg-id="24hchaves" tvg-name="24h chaves" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_chaves.png" group-title="Infantil" content-type="video",24H Chaves
-https://tody.s25-cloudfront-net.lat/tody/24h_chaves.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/24h_chaves.m3u8
 #EXTINF:-1 tvg-id="24hdragonballz" tvg-name="24h dragon ball z" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_dragonball.png" group-title="Infantil" content-type="video",24H Dragon Ball Z
-https://tody.s25-cloudfront-net.lat/tody/24h_dragonball.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/24h_dragonball.m3u8
 #EXTINF:-1 tvg-id="24hfriends" tvg-name="24h friends" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_friends.png" group-title="Infantil" content-type="video",24H Friends
-https://tody.s25-cloudfront-net.lat/tody/24h_friends.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/24h_friends.m3u8
 #EXTINF:-1 tvg-id="24hnarutoclu00e1ssico" tvg-name="24h naruto clássico" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_naruto.png" group-title="Infantil" content-type="video",24H Naruto Clássico
-https://tody.s25-cloudfront-net.lat/tody/24h_naruto.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/24h_naruto.m3u8
 #EXTINF:-1 tvg-id="24hossimpsons" tvg-name="24h os simpsons" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_simpsons.png" group-title="Infantil" content-type="video",24H Os Simpsons
-https://tody.s25-cloudfront-net.lat/tody/24h_simpsons.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/24h_simpsons.m3u8
 #EXTINF:-1 tvg-id="24hpicapau" tvg-name="24h pica pau" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_picapau.png" group-title="Infantil" content-type="video",24H Pica Pau
-https://tody.s25-cloudfront-net.lat/tody/24h_picapau.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/24h_picapau.m3u8
 #EXTINF:-1 tvg-id="24htodomundoodeiaocris" tvg-name="24h todo mundo odeia o cris" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/24h_odeiachris.png" group-title="Infantil" content-type="video",24H Todo Mundo Odeia o Cris
-https://tody.s25-cloudfront-net.lat/tody/24h_odeiachris.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/24h_odeiachris.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="cartoon network" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cartoonnetwork.png" group-title="Infantil" content-type="video",Cartoon Network
-https://tody.s25-cloudfront-net.lat/tody/cartoonnetwork.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="cartoonito" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/cartoonito.png" group-title="Infantil" content-type="video",Cartoonito
-https://tody.s25-cloudfront-net.lat/tody/cartoonito.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/cartoonito.m3u8
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="discovery kids" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoverykids.png" group-title="Infantil" content-type="video",Discovery Kids
-https://tody.s25-cloudfront-net.lat/tody/discoverykids.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/discoverykids.m3u8
 #EXTINF:-1 tvg-id="gloob" tvg-name="gloob" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/gloob.png" group-title="Infantil" content-type="video",Gloob
-https://tody.s25-cloudfront-net.lat/tody/gloob.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/gloob.m3u8
 #EXTINF:-1 tvg-id="retrotv" tvg-name="retro tv" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/17a37ec0-c25f-4d5f-91c3-f3d601df155e/retro_cartoon_150x150.png" group-title="Infantil" content-type="video",Retro TV
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1037183707.m3u8
 #EXTINF:-1 tvg-id="gospelcartoon" tvg-name="gospel cartoon" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/bc3709fa-d651-4bf0-b3c3-d62555f96779/gospel_cartoon_150x150.png" group-title="Infantil" content-type="video",Gospel Cartoon
@@ -1022,35 +1022,35 @@ https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-nilcera" tvg-name="tv nilcera" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_150_1767831331.jpg" group-title="Infantil" content-type="video",Tv Nilcera
 https://lbgo.bozztv.com/ssh101/ssh101/tvnilcera/playlist.m3u8
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="animal planet" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/animalplanet.png" group-title="Documentários" content-type="video",Animal Planet
-https://tody.s25-cloudfront-net.lat/tody/animalplanet.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/animalplanet.m3u8
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="discovery channel" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoverychannel.png" group-title="Documentários" content-type="video",Discovery Channel
-https://tody.s25-cloudfront-net.lat/tody/discoverychannel.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/discoverychannel.m3u8
 #EXTINF:-1 tvg-id="discoveryhh" tvg-name="discovery h&h" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryhh.png" group-title="Documentários" content-type="video",Discovery H&H
-https://tody.s25-cloudfront-net.lat/tody/discoveryhh.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/discoveryhh.m3u8
 #EXTINF:-1 tvg-id="discoveryhomehealth" tvg-name="discovery home & health" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryhh.png" group-title="Documentários" content-type="video",Discovery Home & Health
 https://d2-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/discoveryhh/index.m3u8
 #EXTINF:-1 tvg-id="discoveryid" tvg-name="discovery id" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryid.png" group-title="Documentários" content-type="video",Discovery ID
-https://tody.s25-cloudfront-net.lat/tody/discoveryid.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/discoveryid.m3u8
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="discovery science" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryscience.png" group-title="Documentários" content-type="video",Discovery Science
-https://tody.s25-cloudfront-net.lat/tody/discoveryscience.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/discoveryscience.m3u8
 #EXTINF:-1 tvg-id="discoverytheater" tvg-name="discovery theater" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoverytheather.png" group-title="Documentários" content-type="video",Discovery Theater
-https://tody.s25-cloudfront-net.lat/tody/discoverytheather.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/discoverytheather.m3u8
 #EXTINF:-1 tvg-id="discoveryturbo" tvg-name="discovery turbo" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryturbo.png" group-title="Documentários" content-type="video",Discovery Turbo
-https://tody.s25-cloudfront-net.lat/tody/discoveryturbo.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/discoveryturbo.m3u8
 #EXTINF:-1 tvg-id="discoveryworld" tvg-name="discovery world" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryworld.png" group-title="Documentários" content-type="video",Discovery World
-https://tody.s25-cloudfront-net.lat/tody/discoveryworld.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/discoveryworld.m3u8
 #EXTINF:-1 tvg-id="foodnetwork" tvg-name="food network" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/foodnetwork.png" group-title="Documentários" content-type="video",Food Network
-https://tody.s25-cloudfront-net.lat/tody/foodnetwork.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/foodnetwork.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-name="hgtv" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/hgtv.png" group-title="Documentários" content-type="video",HGTV
-https://tody.s25-cloudfront-net.lat/tody/hgtv.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/hgtv.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="history" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/history.png" group-title="Documentários" content-type="video",History
-https://tody.s25-cloudfront-net.lat/tody/history.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/history.m3u8
 #EXTINF:-1 tvg-id="history2" tvg-name="history 2" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/history2.png" group-title="Documentários" content-type="video",History 2
-https://tody.s25-cloudfront-net.lat/tody/history2.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/history2.m3u8
 #EXTINF:-1 tvg-id="investigationdiscovery" tvg-name="investigation discovery" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/discoveryid.png" group-title="Documentários" content-type="video",Investigation Discovery
 https://d2-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/discoveryid/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="tlc" tvg-logo="https://www.tvonlinehd.app.br/assets/logos/tlc.png" group-title="Documentários" content-type="video",TLC
-https://tody.s25-cloudfront-net.lat/tody/tlc.m3u8
+https://c904ee7a49338de077316979cdfab07a.sv-nl-02-cloudfront-net.lat/tody/tlc.m3u8
 #EXTINF:-1 tvg-id="nature-time-brasil" tvg-name="nature time brasil ao vivo" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/76c93a8c-9f30-4c4c-9767-d8e389641ff9/nature_time_150x150.jpg" group-title="Documentários" content-type="video",Nature Time Brasil Ao Vivo
 https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
 #EXTINF:-1 tvg-id="wildearth" tvg-name="wildearth" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioHkpbjQxq1NlB0ZZ7sgm5IJQmtDxj1istOy1chf9cnIW2il8A1P8LXjRXsMTjjlF3Psg0wrPVRGGomM69bmv2Un3amXt_9dI0BW9goKrImh_gMnrKJEeQgdmm0y2Kc17K9rdDJ-y3DlDNzR2PLRhcdcw9xwsvkoW-yW2NvcO5KyTIv6R2OGhHXiJ0/s200/WILDEARTH.jpg" group-title="Documentários" content-type="video",WILDEARTH
